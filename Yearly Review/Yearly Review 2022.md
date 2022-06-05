@@ -33,10 +33,10 @@
 - 16 answers on EN stackoverflow
 - 15 answers in comments on EN stackoverflow
 - 24 answers on PT stackoverflow
-- 8 answers in comments on PT stackoverflow
+- 9 answers in comments on PT stackoverflow
 - 1 answer in comment on webapps stackexchange
 - 1 answer on English Language Learners
-- **Total**: 65 answers
+- **Total**: 66 answers
 
 ## Github Stats
 
