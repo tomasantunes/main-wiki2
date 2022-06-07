@@ -68,6 +68,7 @@
 - CAD Sketcher for Blender (https://makezine.com/2022/04/25/cad-in-blender-is-here/)
 - Folia (https://axile.itch.io/folia)
 - Manim - Mathematical Animation Engine (https://github.com/3b1b/manim)
+- Roland50 Studio (https://roland50.studio/)
 
 ## Best Application (Community)
 - Peertube (https://joinpeertube.org/)
