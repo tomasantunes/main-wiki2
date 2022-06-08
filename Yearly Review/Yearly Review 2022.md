@@ -24,9 +24,11 @@
 - Logitech Headset
 - Three pairs of shoes
 - Trust headset
-- Mitsai Mouse
+- 2x Mitsai Mouse
 - Grey Jacket
 - Xiaomi Redmi 9A
+- Mobile Silicone Case
+- Mobile Full Cover Glass
 
 ## Stackexchange stats
 
