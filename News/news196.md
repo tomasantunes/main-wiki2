@@ -5,3 +5,4 @@
 - New game "Metal: Hellsinger"
 - New game announced: "Aliens: Dark Descent"
 - New game: "Stormgate"
+- New game: "Neon White"
