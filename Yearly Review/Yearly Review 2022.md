@@ -40,7 +40,7 @@
 
 ## Github Stats
 
-- N/A
+- 1 PR
 
 ## Other open-source contributions
 
