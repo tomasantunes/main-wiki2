@@ -6,3 +6,4 @@
 - New game announced: "Aliens: Dark Descent"
 - New game: "Stormgate"
 - New game: "Neon White"
+- New game announced: "Routine"
