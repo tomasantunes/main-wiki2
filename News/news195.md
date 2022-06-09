@@ -5,3 +5,4 @@
 - Ms. Marvel TV Series
 - Diablo Immortal costs 110000$ to gear up
 - Paulo Rego has passed away
+- Jurassic World Dominion
