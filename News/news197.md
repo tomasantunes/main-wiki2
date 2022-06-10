@@ -2,3 +2,4 @@
 
 - Summer Game Fest 2022
 - New game: The Quarry
+- Jan 6th Capitol Attack hearings
