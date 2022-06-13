@@ -345,3 +345,4 @@
 - A vantagem da matemática é que toda a gente faz igual. Os valores ficam preto no branco e é igual para todos. Eu não tenho que confiar em ninguém, apenas tenho que verificar as contas.
 - A ideia não é ser melhor. A ideia é conseguir comunicar, perceber e expressar as nossas ideias de modo a funcionarmos como uma equipa. Eu não tenho de saber, eu posso seguir instruções e obter o mesmo produto.
 - O teu trabalho não significa nada a não ser que as pessoas o usem e apreciem. Devias estar grata que alguém está disposto a pagar.
+- Porquê que eu me deveria preocupar com a qualidade? Recebo o mesmo. Se queres esforço extra, tens que prestar atenção extra.
