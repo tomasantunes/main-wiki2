@@ -1,0 +1,6 @@
+- Não foi adjudicado.
+- Não foi orçamentado.
+- Ultrapassou o limite de incidentes a reportar.
+- Esgotou o pack de horas de suporte.
+- O seu plano apenas inclui suporte, não inclui desenvolvimento.
+- O tempo que se perde a obter informação sobre o assunto também tem de ser faturado.
