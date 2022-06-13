@@ -342,3 +342,4 @@
 - I'm not saying that I do better.
 - You're the one with bugs, not me.
 - Trash gets recycled. Don't be picky.
+- The advantage of math is that it's the same for everyone. The values are black on white. I don't have to trust anyone I can just do the calculations.

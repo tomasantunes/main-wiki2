@@ -342,3 +342,4 @@
 - Eu não estou a dizer que faço melhor.
 - Vocês é que têm bugs, não sou eu.
 - O lixo recicla-se. Não sejas enjoadinha.
+- A vantagem da matemática é que toda a gente faz igual. Os valores ficam preto no branco e é igual para todos. Eu não tenho que confiar em ninguém, apenas tenho que verificar as contas.
