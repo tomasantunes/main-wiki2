@@ -346,3 +346,4 @@
 - It's not about being better, it's about being able to communicate, understand and explain each other's ideas so we can function in a team. I don't have to be good at it, I can just follow instructions and get the same product.
 - Your work means nothing unless people use it and appreciate it. You should be thankful that someone's willing to pay for it.
 - Why should I care about the quality? I get paid the same. If you want extra effort you need to pay extra attention.
+- If you don't want it, don't ask for it. What a waste, you order it to throw it away.
