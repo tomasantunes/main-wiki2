@@ -343,3 +343,4 @@
 - You're the one with bugs, not me.
 - Trash gets recycled. Don't be picky.
 - The advantage of math is that it's the same for everyone. The values are black on white. I don't have to trust anyone I can just do the calculations.
+- It's not about being better, it's about being able to communicate, understand and explain each other's ideas so we can function in a team. I don't have to be good at it, I can just follow instructions and get the same product.

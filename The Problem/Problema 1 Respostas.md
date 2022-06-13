@@ -343,3 +343,4 @@
 - Vocês é que têm bugs, não sou eu.
 - O lixo recicla-se. Não sejas enjoadinha.
 - A vantagem da matemática é que toda a gente faz igual. Os valores ficam preto no branco e é igual para todos. Eu não tenho que confiar em ninguém, apenas tenho que verificar as contas.
+- A ideia não é ser melhor. A ideia é conseguir comunicar, perceber e expressar as nossas ideias de modo a funcionarmos como uma equipa. Eu não tenho de saber, eu posso seguir instruções e obter o mesmo produto.
