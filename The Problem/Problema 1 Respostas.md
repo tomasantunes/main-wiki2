@@ -1,0 +1,344 @@
+# Problema 1 Respostas
+
+- Tu é que te queixas.
+- Eu tenho experiência/educação.
+- Processa-me
+- Fala com o meu advogado.
+- Não quero saber.
+- É de propósito.
+- Deves ter alguma doença
+- Não sejas mázinha
+- Isto é a tua própria insegurança
+- Não é verdade
+- Ainda bem que eu não estou virado para isso.
+- Não sei, ensina-me.
+- Não sei de que estás a falar.
+- Tens que ser mais específica
+- Isso não é feedback válido.
+- Chama a polícia
+- Come merda
+- Vai-te foder
+- Vai-te foder a ti mesma
+- Não gostas, não comas
+- Deixa na beirinha do prato
+- Queres porrada?
+- Escreve uma reclamação
+- Junta-te à fila
+- Tu é que foste servida
+- Tu é que aceitas
+- Nem sequer pagas
+- A qualidade está cara
+- Isto tem que ser barato, é para o lixo.
+- Só estás a pagar a marca
+- Quando temos, ninguém quer.
+- Maior parte das pessoas não quer.
+- É mais fácil de produzir.
+- É mais fácil de distribuir.
+- Não estás dentro do mercado-alvo.
+- Recebo o mesmo
+- Tens expetativas irrealistas
+- Se fores simpática, talvez tenhas sorte.
+- Nem sequer tive oportunidade.
+- Paga extra por revisões
+- Não tens prova disso.
+- Mostra-me um exemplo.
+- Faço a devolução.
+- Pago indemnização.
+- Pagava-te para saires daqui.
+- Pagava-te para te calares.
+- Então porquê que não fazes tu?
+- A minha educação não me preparou para isto.
+- Cala-te.
+- Não sou obrigado a ajudar-te.
+- Se fizeres melhor recebes mais.
+- Não podes ter tudo. Tens que fazer escolhas.
+- Não há mais ninguém disponível.
+- Vou cometer seppuku
+- Não me programaste para isto
+- Ativar auto-destruição.
+- Espanca-me.
+- Isto é um insulto.
+- Estou ofendido.
+- Cuidado com o tom de voz.
+- Fala devagar.
+- Não grites.
+- Que falta de educação.
+- A piada és tu.
+- Não dependes de mim por isso não há problema.
+- Não há regras.
+- Não há critérios de avaliação.
+- Ninguém vai verificar.
+- Não é um teste.
+- Tens que ter objetivos SMART.
+- Tens que medir KPIs.
+- Tens que ter recompensas e castigos.
+- És um monstro.
+- Não tenho medo de ti.
+- Não tens autoridade.
+- Não tens poder para isso.
+- A tua opinião não vai provocar o meu despedimento.
+- Para a próxima faço melhor.
+- Faço desconto.
+- Vou escrever aqui para fazer mais tarde.
+- Vou adicionar à minha lista to-do.
+- Desculpa, não volta a acontecer.
+- Porquê que mencionaste?
+- Para a próxima é pior.
+- Eu sei o que estou a fazer.
+- Nao te preocupes, é seguro.
+- 20% das pessoas fazem 80% do trabalho.
+- Maior parte das startups vão à falência.
+- É preciso falhar primeiro para obter sucesso depois.
+- Maior parte das pessoas pensa que está acima da média.
+- Eu sou lixo.
+- Não te deixes infetar pela minha estupidez.
+- Não podemos julgar um peixe por não saber trepar árvores.
+- Não forces.
+- Nada vai mudar.
+- Eu não preciso de nada, tu é que estás a pedir.
+- Ninguém se queixou.
+- Está tudo a funcionar.
+- Não há problemas aqui exceto tu.
+- Sou novo por aqui.
+- Ainda estou a aprender.
+- Só faço isto de vez em quando.
+- Já não faço isto há muito tempo.
+- Não faço porque é preciso pagar.
+- Só faço isto por diversão.
+- Chumbei na universidade, se calhar é por isso.
+- Eu só queria carregar nos botões.
+- Antigamente era pior.
+- Funciona para mim.
+- Já fiz isso. Já lá fui, Já la estive.
+- Eu só quero sentir-me incluído.
+- Há quem goste.
+- Nem sequer estou muito preocupado com isso.
+- Os robots fazem melhor.
+- É melhor que não fazer nada.
+- Meta-se na sua vida.
+- O que aprendemos é para a nossa própria sobrevivência.
+- Tenta outra pessoa.
+- De que resposta estás à espera?
+- Em quê que isso te afecta? A mim não me afeta nada.
+- É treta.
+- É informação falsa.
+- É mentira.
+- Não me digas como fazer o meu trabalho
+- Esta frase não tem lógica. Queres dizer que qualquer pessoa faz melhor? E os inválidos? Como é que pode ser?
+- Só és despedido de cometeres um erro caro ou fores mal-educado ou roubares ou falares da empresa em público.
+- Ou estás acima da média ou estás abaixo da média.
+- Existem 7 biliões de pessoas no mundo. Como é que sabes se fazem melhor?
+- Partilho a tua insatisfação. É um inútil.
+- Estás sempre a repetir-te. Isso é sinal de doença mental.
+- Qual é o teu problema?
+- De quê que estavas à espera?
+- O quê que estavas a tentar fazer?
+- Faz de conta que eu sou tu e repete.
+- Eu sou um profissional.
+- Eu não sou teu escravo.
+- Não mandas em mim.
+- Come e cala.
+- Vou ficar aqui sentadinho à espera do seu trabalho.
+- Não tens jeito nenhum para resolver problemas.
+- Eduque os seus filhos.
+- A sua filha está a ter os ataques outra vez.
+- Querias querias.
+- É chantagem. Se tens prova que eu sou incompetente vais tentar obter algo em troca de não dizeres ao patrão.
+- Vou repetir o que tu dizes. Estou a fazer igual a ti por isso está certo.
+- Isso não é uma crítica, é um insulto.
+- Não és o centro das atenções.
+- Podes ser o pior mas tens que te esforçar na mesma.
+- Desistir não é uma opção.
+- Existe o céu e o inferno. No inferno toda a informação é falsa.
+- Qualidade de topo. Tu é que ainda não experimentaste.
+- Toda a gente é feliz menos o teu escravo.
+- Estás a distrair-me. É por isso que toda a gente faz melhor.
+- Então achas que Deus é incompetente? Deus guia o meu caminho portanto a culpa é Dele.
+- Sim, todos os médicos fazem melhor que eu. Visita o teu médico o mais brevemente possível. É isso que eu vou fazer também.
+- Também não sou eu que vou resolver os seus problemas de informática. Tem que ir a uma loja especializada.
+- Se tens medo da incompetência faz a tua parte e reclama devidamente.
+- Pareces membro da baleia azul. Não tenho medo de ti, não vou fazer o que tu queres.
+- Não funciona comigo. Não faço comparações. Não tenho medo de admitir que estou errado. Não me importo de ser o último.
+- Vou reportar ao condomínio todos os dias até te calares.
+- Não sei fazer melhor que isto. Nunca tive que fazer isto na vida. Não sei qual é o problema dela, já tentei tudo e não funcionou.
+- Nunca hei-de ser o melhor, faço isto por diversão. Há tantos profissionais a dar cartas neste mundo. Tinha que praticar desde pequeno e nunca desistir portanto agora é tarde.
+- Isto é barulho o dia todo. Se te calasses e ficasses a apreciar o silêncio e a natureza ficavas muito melhor.
+- Não sei o que fiz para merecer isto. Sempre tive as melhores intenções. Espero que tenhas satisfação e tenhas a justiça que procuras.
+- Toda a gente sofre melhor que tu. Toda a gente se suicida melhor que tu. Toda a gente se auto-destrói melhor que tu. Toda a gente come merda melhor que tu.
+- Eu rendo-me, bandeira branca.
+- Ganhaste, és mais poderosa que eu. És a máfia e nem a polícia me pode salvar. Sou um inútil e não sou merecedor do teu amor. Toda a gente é promovido menos eu. A minha vida está nas tuas mãos. Fico a sofrer o teu castigo. Leva todo o meu dinheiro, as minhas terras e a minha propriedade.
+- Sou despromovido a desempregado.
+- Tenho que trabalhar mais para receber o mesmo.
+- Não tenho sítio para onde ir. Estou à tua mercê. És responsável pela minha vida. Estou preso na tua jaula.
+- Estás em todo o lado. Posso fugir mas não me posso esconder.
+- Tu é que te colocaste nessa posição. Agora tens um filho que depende de ti.
+- Não sofro consequências por causa disso. Posso ser incompetente e ninguém faz nada.
+- Tens um vício e ninguém te consegue convencer a parar esse vício.
+- Toda a gente se queixa melhor que tu.
+. Toda a gente reclama melhor que tu.
+- Eu aceito. Eu estou disposto a sofrer este sofrimento. É a minha maldição e tu és o demónio que me tortura.
+- Este ticket está fechado. Problema resolvido. Bastantes respostas. Agora sou livre. Adeus.
+- Mas se não for eu a fazer não tem piada.
+- Ok, este problema não está resolvido. Mas posso fazer de conta que está. Posso transformar isto numa experiência positiva.
+- Eu tenho defeitos. Ninguém disse que eu era perfeito. Estou a começar.
+- Sou paciente no hospital portanto a responsabilidade não é minha. É culpa dos médicos.
+- Tenho as mãos limpas. Não existe contrato. Não tenho que fazer nada.
+- Quem não tem condições de saúde não trabalha.
+- O jogador levou porrada no jogo portanto agora está lesionado e não pode jogar.
+- Se não gostas do meu trabalho, vai a outra pessoa e pede uma segunda opinião.
+- Acusação falsa. Não sou responsável.
+- Não fui notificado. Não tenho que fazer nada.
+- Não sou eu que mando. Não sou eu que tomo decisões por aqui.
+- Toda a gente aboliu a escravatura menos tu.
+- Quanto mais forçares, menos eu trabalho.
+- Mais uma doente no hospital aos berros e não há enfermeiros disponíveis.
+- Não sou responsável logo não cometi nenhum erro. E mesmo que tivesse cometido não é assim que se reclama.
+- Os desempregados não são responsáveis.
+- A culpa é dos pais, dos professores, dos médicos e dos polícias.
+- Ela é um perigo para a sociedade, só no estádio do dragão é que está bem. Tem ataques de raiva todos os dias. Estou a ser abusado regularmente.
+- Toda a gente se está a divertir menos tu.
+- Se não te queres divertir é problema teu. Ficas aí a sofrer enquanto eu me divirto.
+- Lamento, não posso contratar pessoas para fazer jogos.
+- Se fosses tu também não gostavas que te dissessem isso.
+- Então estamos a ganhar. Ela não acredita na felicidade e está a sofrer enquanto nós nos divertimos. Vai ser circlejerk à volta dela.
+- Estás sempre a tempo de mudar e começar a portar-te bem.
+- Deixa de lado a tristeza e junta-te à festa.
+- Todos estão convidados para esta festa. Liguem-se ao wi-fi e peçam as bebidas que quiserem.
+- Sim mas eu vou ter que sobreviver de alguma maneira.
+- Quem comete erros sofre acidentes de trabalho.
+- É porque tenho algum defeito e não sei o que é e não consigo resolver.
+- A partir de agora vou fazer o meu melhor. Vou seguir todas as instruções. Vou fazer tudo dentro das minhas capacidades e lidar com os obstáculos. Assim fico de consciência limpa.
+- É vago. Porquê que toda a gente faz melhor?
+- Toda a gente faz melhor porque têm poderes psíquicos?
+- A questão é: como é que fizeram hacking sem utilizar poderes psíquicos?
+- Não faço porque não preciso de fazer.
+- Os caloiros é que precisam de fazer.
+- Se eles fazem melhor tens que os contratar.
+- Não desperdices o meu tempo se não tens nada para dizer.
+- Isto é falta de confiança da tua parte. Estás a dizer que fazes melhor que eu porque estás inseguro. Achas que eu sou uma ameaça. Não tens certezas acerca desse facto senão não estavas a falar sobre isso. Estás a tentar sentir-te superior e a demonstrar uma total falta de responsabilidade e empatia com os outros.
+- Tens medo da incompetência. Deixa de depender dos outros e faz tu mesma. Pára de usar o trabalho dos outros para gozar com os mais fracos.
+- Toda a gente tira mais satisfação do psicólogo que tu.
+- Toda a gente se está a cagar para a qualidade do meu trabalho, o problema é teu.
+- Eu também me estou a cagar para a qualidade do meu trabalho.
+- Estás a criticar para nada, sem objetivo. Não vais contratar, não vais comprar, não vais testar, não vais ensinar.
+- Não pagas porque não tens essa necessidade. Se tivesses um problema pagavas, se tivesses dinheiro a ganhar pagavas, se todos os teus amigos comprassem também compravas.
+- Pensa antes de falar. Será que isto é ofensivo, será que isto é contra as regras, será que é asneira? Não fales quando estás zangada.
+- Não precisas de repetir que eu já sei o meu lugar.
+- Isto não é eficaz. Tens que mostrar exemplos de como a tua vida é melhor que a minha, e tens que mostrar as coisas que fazes e eu não faço.
+- Então vou ser insultado todos os dias por causa disso. Este castigo é injusto.
+- Os outros fazem pior e não são castigados por isso.
+- E tu, quem é que te insulta a ti? O quê que eles dizem?
+- A ti ninguém te insulta. Então porquê que me insultas a mim?
+- Não, não podes. É injusto. Estás-me a magoar.
+- Porque não gostas de mim. Porque não aceitas o meu estilo de vida. Porque eu sou diferente.
+- Não podes aplicar esse castigo. Estás a tomar justiça pelas próprias mãos.
+- Não é justiça. É cobardia da tua parte.
+- Se fosse justiça aparecia no jornal para toda a gente saber.
+- Que assunto aborrecido. Que seca. Devia ser pago para te responder. Se gostas de incompetência porquê que não trabalhas na qualidade?
+- Claro que é para responder. Todos os clientes têm que levar resposta. Se eu não responder ficas na ignorância e eu também.
+- Eu exigo uma explicação. Eu exigo que pares esse comportamento.
+- Estás com raiva, porquê? Tens uma necessidade não atendida, porquê? Tens que ser racional e não emocional. Tens que arranjar distrações. Se tiveres clareza sobre os teus motivos tens mais hipótese de ser compreendida e obter melhores resultados. Como é que deixas uma pessoa de que não gostas viver dentro da tua cabeça sem pagar aluguer?
+- Fala por ti. Os outros não podem defender a tua posição.
+- A qualidade é relativa. Se calhar nunca vamos concordar acerca desse assunto.
+- Pois, mas eu discordo. E a página é minha por isso sou eu que decido.
+- Continuo a discordar. Este ticket está fechado. Terás que arranjar provas e criar um ticket diferente.
+- O que estás a fazer é SPAM. Não podes.
+- Ninguém tem que pagar portanto a minha incompetência não é um problema.
+- Estás errada. Tu é que fizeste uma afirmação, tu é que estás errada.
+- Somos todos iguais, fazes melhor que eu mas não és superior.
+- Só existe uma maneira de resolver isto. Vamos jogar um jogo, quem ganhar o jogo não é incompetente.
+- Eu sou o melhor líder. Eu vou levar a minha equipa ao topo. Vou suportá-los e encorajá-los. E os conflitos vão ser resolvidos.
+- Sou o melhor e é essa a minha opinião e não a vais mudar tão facilmente.
+- OK não sou o melhor. Sou um consumidor e um utilizador e pago.
+- Ele não é consumidor mas veio experimentar o produto e dizer mal do produto.
+- OK vou fazer tudo o que dizes. Parece que sou um rato.
+- Não preciso de saber fazer. É só utilizar a aplicação.
+- Estou sozinho, não tenho ninguém que me ajude portanto tenho que ser o melhor.
+- És a pessoa mais mal-comportada daqui. Não tens o direito de criticar ninguém.
+- Tu é que és uma merda.
+- Quem desdenha quer comprar.
+- Toda a gente faz melhor mas tu só me dás atenção a mim.
+- A bebé está a chorar outra vez.
+- Detestas as pessoas que fazem menos que tu?
+- É uma oportunidade de contribuires e tu estás a evitar só para me insultar.
+- Fazer melhor é gastar mais dinheiro.
+- Fazias melhor se estivesses calada.
+- Não, não existe melhor. Fico a ouvir-te o dia todo e é o melhor que arranjo.
+- É treta. Tanto quanto sei, não existe melhor com este orçamento e estas condições.
+- Ninguém come merda de propósito.
+- Quem não sabe não pode fazer nada.
+- Não arranjo melhor.
+- Não vejo ninguém a dizer isso na internet.
+- Eu não sou estúpido. Eu faço os meus trabalhos-de-casa. Eu trabalho todos os dias.
+- Está na hora de ir buscar as armas maiores.
+- Está na hora de aumentar o poder.
+- Está na hora de aumentar a dose.
+- A todo o lado que eu vou não encontro ninguém a fazer isto.
+- Não aceito feedback nenhum sobre o meu trabalho.
+- Discordamos. Tu achas que tá mau. Eu acho que tá bom.
+- Sou eu que decido se o teu feedback é válido ou não. Sou eu que vou comer.
+- É a vida. Quem se porta mal não come.
+- Se toda a gente faz melhor que tu precisas de mais educação para competir no mercado.
+- Qual é a piada de fazer melhor? Não recebo nada em troca. Obtenho a mesma informação mais rapidamente. Posso sempre corrigir mais tarde se precisar. Eu só estou aqui pela cerveja e pelas piadas.
+- Não preciso de ser melhor. Posso ser o maior imbecil e mesmo assim vou ser servido.
+- Devias comparar-te apenas com ti mesmo no dia de ontem.
+- Tu só vês alguns momentos da vida dos outros. Não vês quando eles falham.
+- Pelo menos não estou morto.
+- Não tem piada.
+- Toda a gente ensina melhor que tu.
+- Ser o pior é impossível por isso esta frase não faz sentido.
+- Para ser o melhor tinhas que passar por sofrimento extremo.
+- Não está aqui mais ninguém.
+- Tu tens a tua vida e eu tenho a minha.
+- Concordo contigo. Toda a gente faz melhor. E agora?
+- Pois é. Tens que trabalhar e estudar para não seres igual a mim.
+- Eu concordo e estou a contar com todos para resolver problemas e fazer o seu trabalho.
+- Parece bom o suficiente para mim.
+- Não conheço outras pessoas por isso não sei o que eles fazem melhor.
+- Eu não tenho que fazer o que os outros rapazes fazem.
+- Toda a gente tem dinheiro menos eu.
+- A minha pila não é grande o suficiente para ti.
+- Toda a gente tem pila menos eu.
+- Estás-te a queixar de falta de pila.
+- Não tenho tomates suficientes para ti.
+- Toda a gente tem tomates menos eu.
+- Tu é que tens um problema. Se não consegues resolver, tu é que és incompetente. Ajuda-me a ajudar-te. Não vejo porque precisas de mim para resolver o teu problema.
+- Pareces uma criança. Estás a ter um ataque porque os teus pais não te compram um brinquedo.
+- Olhe por si abaixo.
+- Quem larga a farpa é quem acusa.
+- És teimosa.
+- Deixa de lado o orgulho e muda de vida.
+- Este feedback não é nada construtivo. Não aprendemos nada e não ajuda nem a mim nem a ti.
+- O quê que eu vou fazer com essa informação? Limpar o cu?
+- Não sei mas posso aprender.
+- Não faço melhor porque não quero melhor. Quero como está. A escolha é minha. Não se pode beber champagne todos os dias.
+- Eu não estou a trabalhar. Eu sou o cliente, não vim aqui para ser insultado.
+- Então porquê que estou vivo? Se eu não sou útil devias matar-me.
+- Estás a mentir. Não achas que eu sou inútil.
+- Se queres uma coisa bem feita, tens que ser tu a fazer.
+- Exige mais de ti mesma e menos dos outros.
+- Se te continuas a queixar vou ter que fazer mais e és tu que pagas.
+- E eu vou mandar vir de toda a gente.
+- Então toda a gente manda vir de toda a gente.
+- E toda a gente faz melhor que toda a gente.
+- Eu faço parte de toda a gente por isso faço melhor que mim mesmo.
+- A realidade é que 1% faz melhor que toda a gente.
+- Não pode ser. Somos todos iguais.
+- Desculpa, castiga-me.
+- Teres qualificações superiores não te dá o direito de tratar as pessoas como lixo.
+- Há quem faça melhor mas são antipáticos, prefiro ter uma pessoa simpática.
+- Se não tens nada de útil para dizer tá mas é calada.
+- Se é assim que lidas com a tua raiva, és pior que eu.
+- Tu só queres atenção.
+- Estás desesperada.
+- És uma baleia gorda.
+- És um caso perdido e demasiado estúpida para resolver o teu problema.
+- Não posso fazer por ti. Pegas no teu dinheiro e fazes tu.
+- O caso está fechado e não é negociável.
+- Isso depende da tua definição de qualidade.
+- Não é toda a gente, é só as mulheres.
+- Deves pensar que isto é um concurso de putas a tentar agradar-te.
+- Deixa de julgar as pessoas.
+- Eu não estou a dizer que faço melhor.
+- Vocês é que têm bugs, não sou eu.
+- O lixo recicla-se. Não sejas enjoadinha.

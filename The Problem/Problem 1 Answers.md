@@ -1,0 +1,344 @@
+# Problem 1 Answers
+
+- You're the one complaining.
+- I have experience/education.
+- Sue me
+- Talk to my lawyer
+- I don't care
+- It's on purpose
+- You must have some kind of illness
+- Don't be mean
+- That is your own insecurity
+- It's not true
+- Yes, and I'm glad because I can't bother.
+- I don't know, teach me.
+- I don't know what you're talking about.
+- Be more specific
+- That's not valid feedback.
+- Call the police
+- Eat shit
+- Fuck you
+- Go fuck yourself
+- If you don't like it, don't eat it
+- Leave it on the border of the plate
+- I'll kick your ass
+- Write a complaint
+- There's a queue for that
+- You're the one who got served
+- You're the one who accepts it
+- You don't even pay
+- Quality is expensive
+- They want it cheap and trashy
+- You're just paying for the brand
+- When we have, nobody wants it.
+- Most people don't want it.
+- It's easier to make.
+- It's easier to distribute.
+- You are not the target audience.
+- I get paid the same.
+- You have unrealistic expectations.
+- If you ask nicely, you might get it.
+- I didn't even get a chance.
+- You pay extra for revisions.
+- You have no proof of that.
+- Show me an example.
+- I'll give you a refund.
+- I'll give you compensation.
+- I will pay you to get out of here.
+- I will pay you to shut up.
+- Then why don't you do it?
+- My education didn't prepare me for this.
+- Shut up.
+- I'm not forced to help you.
+- If you do better you get paid more.
+- You can't have everything. You have to make choices.
+- Nobody else is available.
+- I commit seppuku
+- You have not programmed me for this.
+- Activate self-destruction
+- Spank me
+- This is an insult.
+- I'm offended.
+- Watch your tone.
+- Speak slowly
+- Don't shout
+- What a lack of education
+- The joke is you
+- You don't depend on me so it shouldn't be a problem.
+- There are no rules.
+- There is no evaluation criteria.
+- Nobody's checking.
+- It's not a test.
+- You need to have SMART goals.
+- You need to measure KPIs (Key Performance Indicators)
+- You need to have rewards and punishments.
+- You're a monster.
+- I'm not afraid of you.
+- You have no authority.
+- You have no power.
+- Your opinion doesn't get me fired.
+- I'll do better next time.
+- I'll give you a discount.
+- I will write it down to fix later.
+- I'll add it to my to-do list.
+- Sorry, it'll never happen again.
+- What did you mean to accomplish by bringing this up?
+- Next time will be worse.
+- I know what I'm doing.
+- Don't worry, it's safe.
+- 20% of people do 80% of the work.
+- Most startups fail.
+- You need to fail first before you succeed.
+- Most people think they are above average.
+- I'm trash
+- Watch out, you might get infected with my stupidity.
+- You can't judge a fish by it's ability to climb trees.
+- Stop forcing it.
+- Nothing's gonna change.
+- I'm not the one asking.
+- Nobody complained.
+- Everything is working fine.
+- No problems here except you.
+- I'm new here.
+- I'm still learning.
+- I only do this occasionally.
+- I haven't done this for a long time.
+- I don't do it because I have to pay.
+- I only do this for fun.
+- I failed at uni, maybe that's why.
+- I just want to press buttons.
+- In the past it was worse.
+- It's working for me.
+- Been there done that.
+- I just want to fit in.
+- Some people like it.
+- I don't even care that much.
+- Robots do it better.
+- Better than doing nothing.
+- Mind your own business.
+- What you learn is for your own survival.
+- Try someone else.
+- What answer are you expecting?
+- How does that affect you? It doesn't affect me.
+- It's bullshit
+- It's fake information
+- It's a lie
+- Don't tell me how to do my job.
+- This sentence is a logical fallacy. You mean any fool can do that better. And does that include disabled people? How can that be?
+- You only get fired if you make an expensive mistake or you steal or you are rude or if you talk about the company in public.
+- You are either above average or below average.
+- There are 7 billion people on the world. How do you know if they're all better?
+- I feel the same way. What a useless guy.
+- You are constantly engaging in repetitive speech. That's a sign of mental illness.
+- What's your problem?
+- What were you expecting?
+- What were you trying to do?
+- Pretend I'm you and repeat.
+- I'm a professional.
+- I'm not your slave.
+- You can't give me orders.
+- Eat and shut up.
+- I'm going to to be sitting down here waiting for your work.
+- You're really bad at solving problems.
+- Educate your kids.
+- Your daughter is having a fit again.
+- You wish.
+- It's blackmail. If you have proof that I'm incompetent you can try to get something in return for not telling the boss.
+- I'm going to repeat what you say. I'm doing the same as you so it's correct.
+- That's not a critique, it's an insult.
+- You're not the center of attentions.
+- You can be the worst but you still have to make an effort.
+- Giving up is not an option.
+- There is heaven and hell. In hell everything is fake information.
+- Top quality. You haven't even tried.
+- Everyone is happy except your slave.
+- You're distracting me. That's why everyone does it better.
+- So you think God is incompetent? God guides my way so it's His fault.
+- Yes, any doctor can do it better than me. Visit a doctor as soon as possible. That's what I'm going to do.
+- I also can't solve your computer problems. You'll have to go to a specialized shop.
+- If you're afraid of incompetence do your part and complain properly.
+- You look like a member of the blue whale. I'm not afraid of you and I will not do what you want.
+- It doesn't work with me. I don't do comparisons. I'm not afraid to admit I'm wrong. I don't mind being the last one.
+- I'm going to report to the condominium every day until you shut up.
+- I don't know any better. I never had to do this. I don't know what's her problem, I tried everything and it didn't work.
+- I'll never be the best, I do this for dun. There are so many professionals doing good in this world. I would have to practice from infancy and never give up so now it's too late.
+- So much noise all day long. If you shut up and appreciate the silence and nature you would feel better.
+- I don't know what I've done to deserve this. I always had the best intentions. I hope you are get satisfaction and the justice you are looking for.
+- Everyone suffers better than you. Everyone kills themselves better than you. Everyone self-destructs better than you. Everyone eats shit better than you.
+- I surrender, white flag.
+- You win, you're more powerful than me. You are the mafia and not even the cops can save me. I'm useless and I don't deserve your love. Everyone gets promoted except me. My life is in your hands. I'll stay here suffering your punishment. Take all my money, my lands and my property.
+- I'm demoted to unemployed.
+- I have to work more to get paid the same.
+- I have no place to go. I depend on you. You are responsible for my life. I'm stuck in your cage.
+- You are everywhere. I can run but I can't hide.
+- You put yourself in that position. Now you have a son who depends on you.
+- I don't suffer consequences because of this. I can be incompetent and nobody cares.
+- You have an addiction and nobody can convince you to stop this addiction.
+- Everyone complains better than you.
+- Everyone writes complaints better than you.
+- I accept. I am willing to take this suffering. It's my curse and you are the demon who tortures me.
+- This issue is closed. Problem solved. Plenty of answers. Now I am free. Goodbye.
+- If I'm not the one doing it it doesn't matter.
+- Okay, this problem is not solved. But I can pretend it is. I can transform this into a positive experience.
+- I have flaws. Nobody said I was perfect. I'm just starting out.
+- I'm a patient in the hospital so it's not my responsibility. It's the doctor's fault.
+- My hands are clean. There is no contract. I don't have to do anything.
+- Those who are not in healthy conditions don't work.
+- The player was beaten up in the game so now he's injured and can't play.
+- If you don't like my work, go to someone else and get a second opinion.
+- False accusation. I'm not responsible.
+- I wasn't notified. I don't have to do anything.
+- I'm not in charge. I don't make decisions here.
+- Everyone abolished slavery except you.
+- The more you force me, the less I work.
+- Another sick person in the hospital shouting and there are no nurses available.
+- I'm not responsible so I didn't make any mistake and even if I did that's not how you complain.
+- The unemployed are not responsible.
+- The blame falls on the parents, teachers, doctors and cops.
+- She's a danger to society. She's only OK at the stadium. She has anger attacks every day. I'm being abused by her regularly.
+- Everyone is having fun except you.
+- If you don't want to have fun it's your problem. Stay there suffering while I have fun.
+- Sorry, I can't hire people to make games.
+- If it was you you wouldn't like others to tell you the same.
+- I guess we're winning. She doesn't believe in happiness and she's suffering while we're having fun. We'll be circlejerking around her.
+- You're always on time to change and start doing good behaviour.
+- Leave your sadness behind and join the party.
+- Everyone is invited to this party. Connect to the wi-fi and order your drinks.
+- Yes but I'll have to survive one way or another.
+- Those who make mistakes suffer a work accident.
+- It's because I have some flaw and I don't know what it is or how to fix it.
+- From now on I will do my best. I will follow all the instructions. I'll do everything within my capabilities and deal with the obstacles. And then my conscience will be clear. Assim fico de consciência limpa.
+- That's vague. Why exactly are they better than me?
+- So everyone does it better than me because they have psychic powers.
+- The question is: how are they hacking without using psychic powers?
+- I don't do it because I don't need to do it.
+- Freshmen are the ones who need to do it.
+- If they do it better you have to hire them.
+- Don't waste my time if you have nothing to say.
+- This is a lack of confidence on your part. You're saying you're better than me because you feel insecure. You think I'm a threat. You don't have certainties about that fact or else you wouldn't be talking about it. You're trying to feel superior and showing a total lack of responsibility and empathy with others.
+- You're afraid of incompetence. Stop depending on others and do it yourself. Stop using other people's work to make fun of the weak.
+- Everyone takes more satisfaction from the psychologist than you.
+- Nobody cares about the quality of my work, it's your problem.
+- I also don't care about the quality of my work, it's your problem.
+- You are criticizing for nothing, without any goal. You're not going to hire, you're not going to buy, you're not going to test, you're not going to teach.
+- You don't pay because you don't have that need. If you had to solve a problem you would pay, if you had money to win you would pay, if all your friends buy it you buy it too.
+- Think before you speak. Is this offensive, is this against the rules, is this cursing? Don't speak when you're angry.
+- You don't need to repeat. I already know my place.
+- This is not effective.You have to show how your life is better than mine and the things you do that I don't do.
+- So I'm going to be insulted every day because of that. This punishment is unfair.
+- Other people do worse and they are not punished.
+- What about you? Who insults you? What do they say?
+- Nobody insults you. Then why do you insult me?
+- No, you can't. It's unfair. You're hurting me.
+- Because you don't like me. Because you don't accept my lifestyle. Because I'm different.
+- You can't enforce this punishment. You're taking justice by your own hands.
+- It's not justice. It's cowardice on your part.
+- If it was justice it would show up on the newspaper so that everyone knows.
+- What a boring subject. I should get paid to answer you. If you like incompetence why don't you work in quality?
+- Of course I have to answer. All clients have to be answered. If I don't answer you stay in ignorance and me too.
+- I demand an explanation. I demand that you stop this behaviour.
+- You are angry, why? You have unmet needs, why? You have to be rational and not emotional. You have to find distractions. If you are clear about your motives you have more chances of being understood and getting the results you want. How do you let a person you don't like live in your head rent-free?
+- Speak for yourself. Others can't defend your position.
+- Quality is relative. Maybe we'll never agree about that subject.
+- Right, but I disagree. And it's my page so I decide.
+- I still disagree. This issue is closed. You'll have to gather evidence and create a different issue.
+- What you're doing is SPAM. You can't.
+- Nobody has to pay so my incompetence is not a problem.
+- You're wrong. You're the one who made an affirmation, you're the one who's wrong.
+- We are all equal. You're better than me but you're not superior.
+- There is only one way to solve this. By playing a game, whoever wins the game is not incompetent.
+- I'm the best leader. I will take my team to the top. I will support them and I will encourage them. And conflicts will be dealt with accordingly.
+- I'm the best and that's my opinion and you won't change it that easily.
+- OK. I'm not the best. I'm a consumer and a user and I pay.
+- He's not a consumer but he came to try the product and talk shit about it.
+- Alright, I'm going to do everything you say. Apparently I'm a mouse.
+- I don't need to know how to do it. I can just use the app.
+- I'm alone, I have nobody to help me so I have to be the best.
+- You're the rudest person here. You don't have the right to criticize anyone.
+- You are the one who is shit.
+- Those who complain want to buy.
+- Everyone does it better but you only pay attention to me.
+- The baby is crying again.
+- Do you hate people who do less than you?
+- It's an opportunity to contribute and you are avoiding it just to insult me.
+- Doing better is spending more money.
+- You would do better by shutting up.
+- No, there is no better. I get to listen to you all day and that's the best I can get.
+- It's bullshit. As far as I know, there is no better with current budget and conditions.
+- Nobody eats shit on purpose.
+- Those who don't know can't do anything.
+- I don't get any better.
+- I don't see anyone saying that on the internet.
+- I'm not stupid. I do my homework. I work everyday.
+- It's time to bring out the big guns.
+- It's time to increase the power.
+- It's time to increase the dosage.
+- Everywhere I go I don't find anyone doing this.
+- I'm not taking any feedback about my work.
+- We disagree. You think it's bad. I think it's good.
+- I'm the one who decides if your feedback is valid or not. I'm the one who's going to eat it.
+- Such is life. Those who don't behave don't eat.
+- If everyone does it better than you you need to get more education to compete in the market.
+- What's the point of doing better? I don't get any rewards for doing better. I get the same information and it's much faster. I can always correct it later if I need to. I'm just here for the booze and the jokes.
+- I don't have to be better. I can be the biggest loser and I still get served.
+- The only person you should compare to is yourself from yesterday.
+- You only see snapshots of other people's lifes, you don't see their failures.
+- At least I'm not dead.
+- It's not funny.
+- Everyone teaches better than you.
+- Being the worst is impossible so this sentence makes no sense.
+- To be the best you would have to go through extreme suffering.
+- There's nobody else here.
+- You have your life and I have mine.
+- I agree with you. Everyone does it better. What now?
+- So it is. You should work and study so you don't become like me.
+- I agree and I'm counting on everyone to solve problems and do their jobs.
+- Seems good enough to me.
+- I don't know other people so I don't know what they do better.
+- I don't have to do what other boys do.
+- Everyone has money except me.
+- My dick isn't big enough for you.
+- Everyone has a dick except me.
+- You're complaining about lack of dick.
+- I don't have enough balls for you.
+- Everyone has balls except me.
+- You're the one with a problem. If you can't solve it, you are the one who is incompetent. Help me help you. I don't see why you would need me to solve your problem.
+- This is really childish of you. Sounds like you're throwing a fit because your parents don't buy you a toy.
+- Look at yourself.
+- The one who farts is the one who accuses.
+- You're stubborn.
+- Forget your pride and change your life.
+- This feedback is not constructive at all. We don't learn anything and it's not good for both of us.
+- What am I going to do with that information? Clean my ass?
+- I don't know but I can learn.
+- I don't do better because I don't want better. I want it the way it is. It's my choice. Can't have champagne every day.
+- I'm not working. I'm the customer, I didn't come here to be insulted.
+- Then why am I still alive? If I'm not useful you should kill me.
+- You're lying. You don't really think I'm useless.
+- If you want something done well, do it yourself.
+- Expect more from yourself and less from others.
+- If you keep complaining I'm going to have to deliver more and you're the one paying.
+- And I'm going to order from everyone.
+- So everyone orders from everyone.
+- And everyone does better than everyone.
+- I am a part of everyone so I do better than myself.
+- The reality is that 1% does better than everyone.
+- That can't be. We are all equal.
+- Sorry, punish me.
+- Having superior qualifications doesn't give you the right to treat people like trash.
+- They do it better but they are rude, I prefer someone nice.
+- If you have nothing useful to say you might as well shut up.
+- If that's the way you handle your anger, you're worse than me.
+- You just want attention.
+- You're desperate.
+- You're a fat whale.
+- You're hopeless and you're too stupid to solve your problem.
+- I can't do it for you. Take your money and do it yourself.
+- Case is closed and it's not open for debate.
+- That depends on your definition of quality.
+- Not everyone, just the women.
+- You must think this a contest of whores trying to please you.
+- Stop being judgemental.
+- I'm not saying that I do better.
+- You're the one with bugs, not me.
+- Trash gets recycled. Don't be picky.
