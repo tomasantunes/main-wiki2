@@ -109,3 +109,5 @@
 - Poverty
 - Humor
 - Boredom
+- Bad service
+- Long wait times
