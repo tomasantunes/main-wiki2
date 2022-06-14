@@ -129,3 +129,5 @@
 - I don't have company
 - I don't have a girlfriend or boyfriend
 - I don't have rich friends
+- I don't have family
+- My family is abusive
