@@ -1,0 +1,108 @@
+- Video-games
+- Sex
+- Alcohol
+- Speaking
+- Programming
+- Art
+- Education
+- Jobs
+- Social Media
+- Youtube
+- Porn
+- Smoking
+- Clothes
+- Violence
+- Guns
+- TV
+- Advertising
+- Cars
+- Hygiene
+- Appearance
+- Animals
+- Houses
+- Restaurants
+- Food
+- Drinks
+- Piracy
+- Money
+- Business
+- Chatting
+- Diseases
+- Pain
+- Stealing
+- Women
+- Men
+- Gay
+- Trans
+- Traveling
+- English
+- Portuguese
+- Stocks
+- Mobile Phone
+- Toys
+- Music
+- Books
+- Theatre
+- Having children
+- Pregnancy
+- Menstruation
+- Coffee
+- Laziness
+- Social Inequality
+- Racism
+- Inflation
+- Sexism
+- Math
+- Double standards
+- Security
+- Cybersecurity
+- Noise
+- Reality Shows
+- Journalism
+- Psychology
+- Robots
+- Paperwork
+- Immigration
+- Interviews
+- Writing
+- Fiction
+- Non-fiction
+- Sports
+- Exercise
+- Gambling
+- Drugs
+- Hair
+- Skin color
+- Card games
+- Board games
+- Meditation
+- Medication
+- Privacy
+- Rape
+- Nightclubs
+- Live music
+- Coffee shops
+- Disability
+- Boats
+- Ocean
+- Gardens
+- Space
+- Religion
+- Incompetence
+- Stupidity
+- Cartoons
+- Competition
+- Superiority
+- Ranking
+- Selection Processes
+- Contests
+- Wage Gap between men and women
+- Wage Gap between workers and bosses
+- Wage Gap between jobs
+- Debt
+- Loans
+- Credit
+- Working for free
+- Voluntary Work
+- University
+- Privilege
