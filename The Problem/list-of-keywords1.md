@@ -123,3 +123,5 @@
 - There's too much stuff in the house
 - The drugs are not helping my pain
 - The drugs are not good enough
+- I don't have enough money for drugs
+- I don't know anyone who sells drugs
