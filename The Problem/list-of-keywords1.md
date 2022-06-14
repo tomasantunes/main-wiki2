@@ -114,3 +114,7 @@
 - Being rude
 - Being too nice
 - Being silent
+- The product doesn't work
+- The product is ugly
+- The food is bad
+- There are too many people
