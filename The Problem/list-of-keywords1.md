@@ -118,3 +118,4 @@
 - The product is ugly
 - The food is bad
 - There are too many people
+- The product is outdated
