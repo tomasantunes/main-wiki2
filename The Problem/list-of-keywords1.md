@@ -108,3 +108,4 @@
 - Privilege
 - Poverty
 - Humor
+- Boredom
