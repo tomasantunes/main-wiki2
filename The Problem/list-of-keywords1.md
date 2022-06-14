@@ -106,3 +106,4 @@
 - Voluntary Work
 - University
 - Privilege
+- Poverty
