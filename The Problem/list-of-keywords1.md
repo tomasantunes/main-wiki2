@@ -138,3 +138,4 @@
 - Reposting content
 - Appealing to reason
 - Torturing on purpose
+- https://en.wikipedia.org/wiki/Psychology_of_torture
