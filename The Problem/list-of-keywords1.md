@@ -111,3 +111,5 @@
 - Boredom
 - Bad service
 - Long wait times
+- Being rude
+- Being too nice
