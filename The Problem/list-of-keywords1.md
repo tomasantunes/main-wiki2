@@ -107,3 +107,4 @@
 - University
 - Privilege
 - Poverty
+- Humor
