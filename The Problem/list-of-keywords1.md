@@ -132,3 +132,4 @@
 - I don't have family
 - My family is abusive
 - I'm obsessed with a guy and he doesn't hang out with me
+- Publishing online
