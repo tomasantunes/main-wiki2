@@ -125,3 +125,4 @@
 - The drugs are not good enough
 - I don't have enough money for drugs
 - I don't know anyone who sells drugs
+- I don't have tobacco
