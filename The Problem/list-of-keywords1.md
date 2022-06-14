@@ -137,3 +137,4 @@
 - Hysteria
 - Reposting content
 - Appealing to reason
+- Torturing on purpose
