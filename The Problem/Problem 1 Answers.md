@@ -347,3 +347,5 @@
 - Your work means nothing unless people use it and appreciate it. You should be thankful that someone's willing to pay for it.
 - Why should I care about the quality? I get paid the same. If you want extra effort you need to pay extra attention.
 - If you don't want it, don't ask for it. What a waste, you order it to throw it away.
+- Are you expecting your opponent to let you win?
+- Screw you. I'm going to put my shitty product on top of yours and I'm going to tell everyone to do it my way.
