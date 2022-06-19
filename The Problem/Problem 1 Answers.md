@@ -349,3 +349,4 @@
 - If you don't want it, don't ask for it. What a waste, you order it to throw it away.
 - Are you expecting your opponent to let you win?
 - Screw you. I'm going to put my shitty product on top of yours and I'm going to tell everyone to do it my way.
+- They are better and they're always crying.
