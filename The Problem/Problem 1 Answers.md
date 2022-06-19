@@ -350,3 +350,4 @@
 - Are you expecting your opponent to let you win?
 - Screw you. I'm going to put my shitty product on top of yours and I'm going to tell everyone to do it my way.
 - They are better and they're always crying.
+- Extraordinary alegations demand extraordinary proof.
