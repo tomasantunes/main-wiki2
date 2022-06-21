@@ -347,3 +347,7 @@
 - O teu trabalho não significa nada a não ser que as pessoas o usem e apreciem. Devias estar grata que alguém está disposto a pagar.
 - Porquê que eu me deveria preocupar com a qualidade? Recebo o mesmo. Se queres esforço extra, tens que prestar atenção extra.
 - Se não queres não peças. Que desperdício. Pedes para deitar fora.
+- Estás à espera que o teu oponente te deixe ganhar?
+- Vai-te foder. Vou pôr o meu produto rasca por cima do teu e vou dizer a toda a gente para fazer da minha maneira.
+- São melhores que eu e estão sempre a chorar.
+- Alegações extraordinárias exigem provas extraordinárias.
