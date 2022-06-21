@@ -5,3 +5,5 @@ My last entry was in May. We are now at the end of June. I made it through work.
 I have a dentist appointment in two days even though my pain has disappeared. Still it's a good idea to go there. Today I'll have to buy lunch at the vending machine and after work I can't forget to go the supermarket.
 
 I need to find some way to put my to-do list on the mobile phone.
+
+Actually, using the mobile sucks. I'm going to put my notebook on the pocket.
