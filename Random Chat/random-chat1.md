@@ -1,1 +1,2 @@
 <SeniorDev> Não faz mal, o cliente vai-se queixar que foi hackeado e nós vamos-lhe dizer que ele tem de pagar para resolver esse problema.
+<SeniorDev> Não sei porquê, mas eu só tenho estes dois problemas da interface e és tu que tens de fazer e és tu que tens de me ligar.
