@@ -1,0 +1,1 @@
+<SeniorDev> Não faz mal, o cliente vai-se queixar que foi hackeado e nós vamos-lhe dizer que ele tem de pagar para resolver esse problema.
