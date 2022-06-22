@@ -88,6 +88,7 @@
 ## Computer Science Award
 - 29-year-old Conway conjecture settled (https://cp4space.hatsya.com/2022/01/14/conway-conjecture-settled/)
 - Build your own quantum computer with Google's latest 'simulator' (https://www.engadget.com/build-your-own-quantum-computer-with-googles-latest-simulator-124513737.html)
+- Schluss - Take back control of your data (https://schluss.org/roadmap/)
 
 ## Digital Art Award
 - N/A
