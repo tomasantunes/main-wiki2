@@ -2,3 +2,4 @@
 <SeniorDev> Não sei porquê, mas eu só tenho estes dois problemas da interface e és tu que tens de fazer e és tu que tens de me ligar.
 <SeniorDev> Eu vou estar aí mais logo.
 <JuniorDev> Eu estou à espera do WebDev, porque ele disse que ia estar comigo e depois trato disso.
+<JuniorDev> LOL agora caiu-me em cima o outro projeto que vai demorar imenso tempo.
