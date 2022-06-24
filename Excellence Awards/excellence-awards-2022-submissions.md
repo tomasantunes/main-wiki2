@@ -40,6 +40,7 @@
 - AI that detects and eliminates Malware (https://www.msn.com/pt-pt/noticias/ciencia-e-tecnologia/universidade-de-cardiff-desenvolve-nova-ia-que-consegue-detectar-e-eliminar-malware-em-0-3-segundos/ar-AAXSCLt?ocid=msedgntp&cvid=93fdf20b71924ab0a544e28e4e83caa2)
 - Gato, a generalist agent (https://www.deepmind.com/publications/a-generalist-agent)
 - Github Copilot (https://github.com/features/copilot/)
+- CodeWhisperer (https://techcrunch.com/2022/06/23/amazon-launches-codewhisperer-its-ai-pair-programming-tool/)
 
 ## Mathematics Award
 - New solution to Leonhard Euler's famous “36 officers puzzle” (https://www.quantamagazine.org/eulers-243-year-old-impossible-puzzle-gets-a-quantum-solution-20220110/)
