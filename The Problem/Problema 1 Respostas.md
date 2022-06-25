@@ -351,3 +351,29 @@
 - Vai-te foder. Vou pôr o meu produto rasca por cima do teu e vou dizer a toda a gente para fazer da minha maneira.
 - São melhores que eu e estão sempre a chorar.
 - Alegações extraordinárias exigem provas extraordinárias.
+- Se não consegues, faz o que sabes.
+- O despedimento é impossível. Tem que se despedir a si mesmo.
+- Tenho pessoas à espera e tu estás a empatar.
+- Dá muito trabalho. Só carrego em botões.
+- Isso é informação falsa. Não tem credenciais e pode ter intenções criminosas.
+- A culpa não é minha. A culpa é de quem deu essa linha.
+- Tens que pagar 2as e 3as revisões.
+- Se fosse assim tão importante. Já tinhas feito algo acerca disso.
+- Uma pessoa de fora repara logo nos defeitos.
+- Não é obrigatório.
+- Tinhas que ser tu a fazer.
+- Este problema é irrelevante.
+- Não tenho tempo para isso.
+- A solução funciona temporariamente e depois é preciso repetir.
+- Tu também não ofereces nada.
+- É mentira, não te falta nada.
+- Andas a levantar falsos alarmes.
+- Isso já está escrito na documentação.
+- Tenho o mesmo problema que tu.
+- Toda a genta não. Só os melhores jogadores.
+- Toda a gente faz isso mas eu não faço.
+- Tens que escrever isso em 500 palavras.
+- O vendedor é que faz isso.
+- Já está feito.
+- E se fosse contigo? Gostavas?
+- Tens que fazer perguntas.

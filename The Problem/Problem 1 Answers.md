@@ -351,3 +351,28 @@
 - Screw you. I'm going to put my shitty product on top of yours and I'm going to tell everyone to do it my way.
 - They are better and they're always crying.
 - Extraordinary alegations demand extraordinary proof.
+- If you can't do it, do what you know.
+- Firing is impossible, he can only fire himself.
+- People are waiting for me and you are bothering me.
+- That's too much work. I only press buttons.
+- That's fake information. He doesn't have credentials and he could have criminal intentions.
+- It's not my fault. The person who wrote that is responsible.
+- You have to pay 2nd and 3rd revision.
+- If it was important it would be done by now.
+- An outsider will notice the flaws immediately.
+- It's not mandatory.
+- It would have to be done by you.
+- This problem is irrelevant.
+- I don't have time for that.
+- The solution works temporarily and you have to keep repeating it.
+- You never give me anything.
+- It's a lie, you have everything you need.
+- You are raising false alarms.
+- This is already written in the documentation.
+- I have the same problem as you.
+- Not everyone. Only the best players.
+- You have to write that in 500 words.
+- The salesman is in charge of that.
+- It's already done.
+- What if it happened to you? Would you like that?
+- You have to ask questions.
