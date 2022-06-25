@@ -377,3 +377,6 @@
 - Já está feito.
 - E se fosse contigo? Gostavas?
 - Tens que fazer perguntas.
+- Tens que ter paciência. Isto demora tempo.
+- Porquê? O quê que eu fiz de errado?
+- Porquê? O quê que te fizeram?

@@ -376,3 +376,6 @@
 - It's already done.
 - What if it happened to you? Would you like that?
 - You have to ask questions.
+- You need to be patient. This takes time.
+- Why? What have I done wrong?
+- Why? What did they do to you?
