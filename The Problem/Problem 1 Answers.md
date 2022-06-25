@@ -379,3 +379,5 @@
 - You need to be patient. This takes time.
 - Why? What have I done wrong?
 - Why? What did they do to you?
+- No need to hurry or else you screw up.
+- You're providing false testemony.

@@ -380,3 +380,5 @@
 - Tens que ter paciência. Isto demora tempo.
 - Porquê? O quê que eu fiz de errado?
 - Porquê? O quê que te fizeram?
+- Não faças isso à pressa senão sai torto.
+- Isso é falso testemunho.
