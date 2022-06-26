@@ -382,3 +382,4 @@
 - Porquê? O quê que te fizeram?
 - Não faças isso à pressa senão sai torto.
 - Isso é falso testemunho.
+- Eu nem sequer te conheço.
