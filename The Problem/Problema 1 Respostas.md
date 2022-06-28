@@ -383,3 +383,4 @@
 - Não faças isso à pressa senão sai torto.
 - Isso é falso testemunho.
 - Eu nem sequer te conheço.
+- Não tens o direito a reclamar.
