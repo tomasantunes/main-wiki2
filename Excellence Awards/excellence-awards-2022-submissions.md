@@ -54,6 +54,7 @@
 - Physicists Produce Biggest Time Crystal Yet (https://www.science.org/content/article/physicists-produce-biggest-time-crystal-yet)
 - First integrated laser on lithium niobate chip (https://www.seas.harvard.edu/news/2022/04/first-integrated-laser-lithium-niobate-chip)
 - From seawater to drinking water, with the push of a button (https://news.mit.edu/2022/portable-desalination-drinking-water-0428)
+- A better heat engine (https://www.technologyreview.com/2022/06/29/1053177/a-better-heat-engine/)
 
 ## Best Application (Tools)
 - Animatize (https://animatize.com/)
