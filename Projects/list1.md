@@ -1,0 +1,7 @@
+- Solve stackoverflow problems
+- Create a billing app
+- Create a game
+- Create templates for wordpress, HTML, shopify, woocommerce, prestashop, joomla, powerpoint.
+- Take React course
+- Create 3D software
+- Read the Bible
