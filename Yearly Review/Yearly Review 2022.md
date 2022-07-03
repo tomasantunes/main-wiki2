@@ -7,7 +7,7 @@
 
 ## Books I read
 
-- N/A
+- The Holy Bible
 
 ## Applications I made
 
