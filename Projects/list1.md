@@ -4,4 +4,4 @@
 - Create templates for wordpress, HTML, shopify, woocommerce, prestashop, joomla, powerpoint.
 - Take React course
 - Create 3D software
-- Read the Bible
+- Read a book
