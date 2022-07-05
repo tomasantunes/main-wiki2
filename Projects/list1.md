@@ -5,3 +5,4 @@
 - Take React course
 - Create 3D software
 - Read a book
+- Write a story
