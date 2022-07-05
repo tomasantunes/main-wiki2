@@ -6,3 +6,4 @@
 - Create 3D software
 - Read a book
 - Write a story
+- Create a 3D model
