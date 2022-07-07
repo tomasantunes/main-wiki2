@@ -384,3 +384,6 @@
 - Isso é falso testemunho.
 - Eu nem sequer te conheço.
 - Não tens o direito a reclamar.
+- Fazem melhor mas demoram mais tempo e vão ter que manter esse código.
+- Se não fizer apaga-se essa linha da fatura.
+- Pois, qualquer pessoa pode fazer trabalho manual por isso tens de fazer algo mais criativo.

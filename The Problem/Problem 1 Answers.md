@@ -383,3 +383,6 @@
 - You're providing false testemony.
 - I don't even know you.
 - You don't have the right to complain.
+- They do it better but they take more time and they will have to maintain that code.
+- If you don't do it we'll remove this item from the bill.
+- Right, anyone can do manual labour so you have to do something more creative.
