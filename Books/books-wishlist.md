@@ -12,7 +12,6 @@
 - One flew over the cuckoo's nest
 - Replay - Ken Grimwood
 - Atlas Shrugged
-- The Psychology of Money - Morgan Housel
 - The Lucifer Principle - Howard Bloom
 - The Tibetan Book Of The Dead
 - The Egyptian Book Of The Dead

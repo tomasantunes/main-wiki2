@@ -133,3 +133,4 @@
 - Easy way to stop smoking - Allen Carr
 - 50 Shades of Grey
 - The Holy Bible
+- The Psychology of Money - Morgan Housel

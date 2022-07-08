@@ -8,6 +8,7 @@
 ## Books I read
 
 - The Holy Bible
+- The Psychology of Money - Morgan Housel
 
 ## Applications I made
 
