@@ -45,3 +45,4 @@
 - The Count of Monte Christo - Alexander Dumas
 - How the world really works - Vaclav Smil
 - Disrupting the Game: From the Bronx to the Top of Nintendo
+- The Network State - Balaji Srinivasan
