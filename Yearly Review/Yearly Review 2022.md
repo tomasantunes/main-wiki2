@@ -30,6 +30,10 @@
 - Xiaomi Redmi 9A
 - Mobile Silicone Case
 - Mobile Full Cover Glass
+- 3x USB PEN 32GB
+- 2x MicroSD Card 32GB
+- Technology Quiz Card Game
+- 4x Plastic Boxes
 
 ## Stackexchange stats
 
