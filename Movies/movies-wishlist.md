@@ -18,3 +18,4 @@
 - The Purge
 - Fast, cheap and out of control
 - Coherence
+- The Emperor's Club
