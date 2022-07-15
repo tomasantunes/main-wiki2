@@ -46,3 +46,4 @@
 - How the world really works - Vaclav Smil
 - Disrupting the Game: From the Bronx to the Top of Nintendo
 - The Network State - Balaji Srinivasan
+- Bullshit Jobs: A Theory - David Graeber
