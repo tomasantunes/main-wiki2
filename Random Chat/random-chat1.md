@@ -19,3 +19,6 @@ Break...
 <JuniorDev> Did you know that young people don't use Google anymore, they use TikTok.
 <Princess> Querias, querias.
 <JuniorDev> I went to Google and it had photos of naked women. And they were high-quality, full HD.
+Break...
+<Princess> Have you tried asking?
+<JuniorDev> Of course, that's included. I wouldn't ask you because you only know about Barbie stuff.
