@@ -25,3 +25,5 @@ Break...
 <Princess> Have you tried asking how to get that information?
 <JuniorDev> That's even worse. You have to wait for a doctor to see you and it takes ages.
 <LeadDev> There are no shortcuts in life.
+<Writer> Are you saying I have a Bullshit Job on the internet?
+<JuniorDev> I don't know, no one has come up with a solution yet.
