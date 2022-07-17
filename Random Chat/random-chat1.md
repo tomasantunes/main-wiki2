@@ -17,3 +17,5 @@ Break...
 <Manager> The problem is you don't know how to Google.
 <JuniorDev> The problem is how to get information. It's not just just googling. I can start a page on that.
 <JuniorDev> Did you know that young people don't use Google anymore, they use TikTok.
+<Princess> Querias, querias.
+<JuniorDev> I went to Google and it had photos of naked women. And they were high-quality, full HD.
