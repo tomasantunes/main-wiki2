@@ -24,3 +24,4 @@ Break...
 <JuniorDev> Of course, that's included. I wouldn't ask you because you only know about Barbie stuff.
 <Princess> Have you tried asking how to get that information?
 <JuniorDev> That's even worse. You have to wait for a doctor to see you and it takes ages.
+<LeadDev> There are no shortcuts in life.
