@@ -27,3 +27,4 @@ Break...
 <LeadDev> There are no shortcuts in life.
 <Writer> Are you saying I have a Bullshit Job on the internet?
 <JuniorDev> I don't know, no one has come up with a solution yet.
+<Writer> I think they have a Bullshit Job on the hospital.
