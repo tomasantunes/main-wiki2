@@ -40,11 +40,11 @@
 
 - 16 answers on EN stackoverflow
 - 15 answers in comments on EN stackoverflow
-- 28 answers on PT stackoverflow
+- 29 answers on PT stackoverflow
 - 10 answers in comments on PT stackoverflow
 - 1 answer in comment on webapps stackexchange
 - 1 answer on English Language Learners
-- **Total**: 71 answers
+- **Total**: 72 answers
 
 ## Github Stats
 
