@@ -14,5 +14,28 @@ Break...
 <JuniorDev> I finished a project.
 <Student> Finally... it's getting harder and harder these days.
 Break...
+<Manager> The problem is you don't know how to Google.
+<JuniorDev> The problem is how to get information. It's not just just googling. I can start a page on that.
+<JuniorDev> Did you know that young people don't use Google anymore, they use TikTok.
+<Princess> Querias, querias.
+<JuniorDev> I went to Google and it had photos of naked women. And they were high-quality, full HD.
+Break...
+<Princess> Have you tried asking?
+<JuniorDev> Of course, that's included. I wouldn't ask you because you only know about Barbie stuff.
+<Princess> Have you tried asking how to get that information?
+<JuniorDev> That's even worse. You have to wait for a doctor to see you and it takes ages.
+<LeadDev> There are no shortcuts in life.
+<Writer> Are you saying I have a Bullshit Job on the internet?
+<JuniorDev> I don't know, no one has come up with a solution yet.
+<Writer> I think they have a Bullshit Job on the hospital.
+Break...
+<Princess> There's a problem...
+<JuniorDev> Yeah, the problem is you don't have authority here. I only take orders from men.
+<JuniorDev> The monarchy is dead. You're just a pretty face for the photos.
+Break...
+<LeadDev> You have to put those problems on hold until further notice.
+<JuniorDev> I have tried everything... but I can't stop thinking about it.
+<JuniorDev> Maybe if I find the right info or I get my message across to someone. Sometimes it works.
+Break...
 <Student1> You give me too much credit.
 <JuniorDev> I don't know why you do this to yourself. I don't why you assume that I'm talking to you, you're nobody. You shouldn't play on my table.
