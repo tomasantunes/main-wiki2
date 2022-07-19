@@ -38,4 +38,6 @@ Break...
 <JuniorDev> Maybe if I find the right info or I get my message across to someone. Sometimes it works.
 Break...
 <Student1> You give me too much credit.
-<JuniorDev> I don't know why you do this to yourself. I don't why you assume that I'm talking to you, you're nobody. You shouldn't play on my table.
+<JuniorDev> I don't know why you do this to yourself. I don't know why you assume that I'm talking to you, you're nobody. You shouldn't play on my table.
+<Player> Nothing is perfect.
+<JuniorDev> It's unbelievable, the people who used to teach me I am now correcting.
