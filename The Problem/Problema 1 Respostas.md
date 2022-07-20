@@ -399,3 +399,4 @@
 - Tens um objetivo perpétuo, precisas de mais e mais e nunca vais conseguir.
 - Tens medo que eu saia e me revolte. Tens medo da mudança.
 - Isto é um trabalho da treta, estamos a fazer de conta, não criamos valor e resolvemos problemas que não deviam existir.
+- A repetição não transforma uma mentira numa verdade.
