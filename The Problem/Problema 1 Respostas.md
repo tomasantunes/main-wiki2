@@ -400,3 +400,4 @@
 - Tens medo que eu saia e me revolte. Tens medo da mudança.
 - Isto é um trabalho da treta, estamos a fazer de conta, não criamos valor e resolvemos problemas que não deviam existir.
 - A repetição não transforma uma mentira numa verdade.
+- As sepulturas não mencionam trabalhos.

@@ -399,3 +399,4 @@
 - You're afraid that I leave and revolt. You're afraid of change.
 - This job is bullshit, we're just pretending to work, not creating any value and fixing problems that shouldn't exist.
 - Repetition doesn't transform a lie into a truth.
+- Tombstones don't mention jobs.
