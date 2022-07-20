@@ -386,3 +386,15 @@
 - They do it better but they take more time and they will have to maintain that code.
 - If you don't do it we'll remove this item from the bill.
 - Right, anyone can do manual labour so you have to do something more creative.
+- The source of status is no longer the ability to produce things but the ability to purchase them.
+- You're sadistic. You take pleasure in making others suffer and humilliating them.
+- There is no incentive except money.
+- One of us is having a good time and the other one is complaining.
+- If you want to be on bottom, that's on you.
+- You're wasting your breath with someone who owes you nothing.
+- When the slave finds out he can have freedom, the sadist gets angry.
+- We no longer have to do repetitive, manual work so the sadist is angry.
+- It's not my fault because I don't have a choice.
+- Your goal is perpetual, you always need more and more and you will never get it.
+- You're afraid that I leave and revolt. You're afraid of change.
+- This job is bullshit, we're just pretending to work, not creating any value and fixing problems that shouldn't exist.

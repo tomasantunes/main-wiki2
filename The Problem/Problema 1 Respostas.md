@@ -387,3 +387,15 @@
 - Fazem melhor mas demoram mais tempo e vão ter que manter esse código.
 - Se não fizer apaga-se essa linha da fatura.
 - Pois, qualquer pessoa pode fazer trabalho manual por isso tens de fazer algo mais criativo.
+- O status já não vem da capacidade de produzir mas sim da capacidade de comprar.
+- És sádica, tens prazer em causar sofrimento aos outros e humilhá-los.
+- Não existe incentivo para além de dinheiro.
+- Um de nós está a divertir-se e o outro está a queixar-se.
+- Se queres ficar por baixo o problema é teu.
+- Estás a gastar o fôlego com alguém que não te deve nada.
+- Quando o escravo descobre que pode ser livre, o sádico fica zangado.
+- Já não temos que fazer trabalho manual e repetitivo por isso o sádico está zangado.
+- A culpa não é minha porque não tenho escolha.
+- Tens um objetivo perpétuo, precisas de mais e mais e nunca vais conseguir.
+- Tens medo que eu saia e me revolte. Tens medo da mudança.
+- Isto é um trabalho da treta, estamos a fazer de conta, não criamos valor e resolvemos problemas que não deviam existir.
