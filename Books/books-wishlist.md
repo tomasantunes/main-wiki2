@@ -45,7 +45,6 @@
 - The Count of Monte Christo - Alexander Dumas
 - Disrupting the Game: From the Bronx to the Top of Nintendo
 - The Network State - Balaji Srinivasan
-- Bullshit Jobs: A Theory - David Graeber
 - Rework - Jason Fried and David Hansson
 - It doesn't have to be crazy at work - Jason Fried and David Hansson
 - Sadomasochism in everyday life - Lynn Chancer
