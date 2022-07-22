@@ -19,6 +19,10 @@
 ## Stories I wrote
 
 - Machine Learning Course
+- How to make a web app with MySQL, Express and React
+- How energy controls the world
+- 5 Types of Bullshit Jobs
+- How invoicing works in Portugal
 
 ## Purchases I made
 
