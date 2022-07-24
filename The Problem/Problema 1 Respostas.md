@@ -401,3 +401,4 @@
 - Isto é um trabalho da treta, estamos a fazer de conta, não criamos valor e resolvemos problemas que não deviam existir.
 - A repetição não transforma uma mentira numa verdade.
 - As sepulturas não mencionam trabalhos.
+- E depois? Eu não quero ser melhor. Quero ser medíocre e fazer coisas medíocres e ganhar um salário medíocre. O mínimo que tiver de fazer para sobreviver.

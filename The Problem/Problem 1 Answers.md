@@ -400,3 +400,4 @@
 - This job is bullshit, we're just pretending to work, not creating any value and fixing problems that shouldn't exist.
 - Repetition doesn't transform a lie into a truth.
 - Tombstones don't mention jobs.
+- So what? I don't want to be better. I want to be average and do average stuff and get an average salary. The minimum I have to do to get by.
