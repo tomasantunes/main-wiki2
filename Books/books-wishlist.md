@@ -19,7 +19,6 @@
 - Of Mice And Men - John Steinbeck
 - The Prince - Nicolo Machiavelli
 - Bird by Bird - Anne Lamott
-- A Thousand Brains: A New Theory of Intelligence - Jeff Hawkins
 - Animal Farm - George Orwell
 - Project Hail Mary - Andy Weir
 - Technology, Inequality, and the Political Economy of Hope - Daniel Greene

@@ -11,6 +11,7 @@
 - The Psychology of Money - Morgan Housel
 - How the world really works - Vaclav Smil
 - Bullshit Jobs: A Theory - David Graeber
+- A Thousand Brains: A New Theory of Intelligence - Jeff Hawkins
 
 ## Applications I made
 
