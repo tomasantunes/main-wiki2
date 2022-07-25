@@ -41,3 +41,10 @@ Break...
 <JuniorDev> I don't know why you do this to yourself. I don't know why you assume that I'm talking to you, you're nobody. You shouldn't play on my table.
 <Player> Nothing is perfect.
 <JuniorDev> It's unbelievable, the people who used to teach me I am now correcting.
+Break...
+<JuniorDev> Welcome to modern javascript. I'm sorry if it's too complicated for people who are not used to asynchronous programming. You're the one complaining and asking questions about things that I've done hundreds of times.
+<Student2> That's not how we do it, we do it with JQuery.
+<JuniorDev> Tough luck, pal. Now you have to build an app and you're stuck with bugs that depend on you knowing how Javascript actually works. I've already done all that shit.
+<JuniorDev> I can feel the silence of resignation from some of these tough guys. Watch and learn.
+<JuniorDev> Buckle up for a trip into the gutters of the system. Where real software gets made.
+<JuniorDev> It's embarrassing, any guy with two inches of smart can make better software than that.
