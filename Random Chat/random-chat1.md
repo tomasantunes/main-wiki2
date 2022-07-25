@@ -57,3 +57,6 @@ Break...
 <JuniorDev> What else?
 <Manager> You should have JIRA or some alternative. And then we need to do CI. You can start moving your apps to the cloud. Your raspberry is banned from hosting apps.
 <JuniorDev> I hope this will lead us somewhere.
+Break...
+<Princess> I'm not included.
+<JuniorDev> You don't take any steps to be included. The most I can do is order drinks for your table.
