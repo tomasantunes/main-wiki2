@@ -41,3 +41,10 @@ Break...
 <JuniorDev> I don't know why you do this to yourself. I don't know why you assume that I'm talking to you, you're nobody. You shouldn't play on my table.
 <Player> Nothing is perfect.
 <JuniorDev> It's unbelievable, the people who used to teach me I am now correcting.
+Break...
+<Manager> You need another domain. And you need a new server. And you should also have a pre-production server. And we need to stop developing locally. And we need to start creating sub-domains instead of folders. And we want to use multiple languages on the same server. I don't know how but that's how it is.
+<JuniorDev> We don't need wordpress, do we?
+<Manager> Now that you mention it, you should have wordpress on pre-production.
+<JuniorDev> What else?
+<Manager> You should have JIRA or some alternative. And then we need to do CI. You can start moving your apps to the cloud. Your raspberry is banned from hosting apps.
+<JuniorDev> I hope this will lead us somewhere.
