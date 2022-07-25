@@ -46,11 +46,11 @@
 
 - 16 answers on EN stackoverflow
 - 15 answers in comments on EN stackoverflow
-- 34 answers on PT stackoverflow
+- 35 answers on PT stackoverflow
 - 10 answers in comments on PT stackoverflow
 - 1 answer in comment on webapps stackexchange
 - 1 answer on English Language Learners
-- **Total**: 77 answers
+- **Total**: 78 answers
 
 ## Github Stats
 
