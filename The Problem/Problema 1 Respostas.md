@@ -409,3 +409,4 @@
 - És uma chorona.
 - Não passas de uma pedinte. Se a qualidade não te chega faz por merecê-la.
 - Estás a receber e queixas-te?
+- Esta merda é dinheiro, sua ingrata. Isto é entornar cocktails o dia todo e comer lagosta e tu choras-te toda.
