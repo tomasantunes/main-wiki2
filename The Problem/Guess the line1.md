@@ -8,3 +8,4 @@
 - A minha mãe está a ser tratada
 - A minha mãe está sempre em casa
 - A minha mãe está sem casa
+- A minha mãe está cansada
