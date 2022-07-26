@@ -12,4 +12,5 @@
 - A minha mãe é drogada
 - A minha mãe está concentrada
 - A minha mãe está a ser roubada
-- A minha está interessada
+- A minha mãe está interessada
+- A minha mãe não é responsável
