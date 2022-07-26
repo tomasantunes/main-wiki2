@@ -50,3 +50,13 @@ Break...
 <JuniorDev> It's embarrassing, any guy with two inches of smart can make better software than that.
 Break...
 <JuniorDev> Yeah. I'm the king of the nerds and me and the princess are going to tell these retards how incompetent they are. Prepare for getting schooled.
+Break...
+<Manager> You need another domain. And you need a new server. And you should also have a pre-production server. And we need to stop developing locally. And we need to start creating sub-domains instead of folders. And we want to use multiple languages on the same server. I don't know how but that's how it is.
+<JuniorDev> We don't need wordpress, do we?
+<Manager> Now that you mention it, you should have wordpress on pre-production.
+<JuniorDev> What else?
+<Manager> You should have JIRA or some alternative. And then we need to do CI. You can start moving your apps to the cloud. Your raspberry is banned from hosting apps.
+<JuniorDev> I hope this will lead us somewhere.
+Break...
+<Princess> I'm not included.
+<JuniorDev> You don't take any steps to be included. The most I can do is order drinks for your table.
