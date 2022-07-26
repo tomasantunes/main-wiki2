@@ -402,3 +402,4 @@
 - A repetição não transforma uma mentira numa verdade.
 - As sepulturas não mencionam trabalhos.
 - E depois? Eu não quero ser melhor. Quero ser medíocre e fazer coisas medíocres e ganhar um salário medíocre. O mínimo que tiver de fazer para sobreviver.
+- Estás com o disco riscado.
