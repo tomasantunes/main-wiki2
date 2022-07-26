@@ -47,3 +47,4 @@
 - Rework - Jason Fried and David Hansson
 - It doesn't have to be crazy at work - Jason Fried and David Hansson
 - Sadomasochism in everyday life - Lynn Chancer
+- Why we're polarized - Ezra Klein
