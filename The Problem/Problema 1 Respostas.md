@@ -407,3 +407,4 @@
 - Poupa-me. Ninguém quer saber dessa merda. Isto são coisas básicas que temos de fazer para ter uma aplicação a funcionar.
 - Isto é tudo automático. Não preciso de ti para nada.
 - És uma chorona.
+- Não passas de uma pedinte. Se a qualidade não te chega faz por merecê-la.

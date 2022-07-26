@@ -406,3 +406,4 @@
 - Nobody cares about that shit. This is basic stuff we need to to get an app done.
 - This is all automatic. I don't need you for anything.
 - You're such a crybaby.
+- You're nothing but a beggar. If the quality is not enough, do more to earn it.
