@@ -402,3 +402,4 @@
 - Tombstones don't mention jobs.
 - So what? I don't want to be better. I want to be average and do average stuff and get an average salary. The minimum I have to do to get by.
 - There's nobody here. Everyone is gone. You are alone talking to yourself.
+- You have a broken record.

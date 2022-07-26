@@ -403,3 +403,4 @@
 - As sepulturas não mencionam trabalhos.
 - E depois? Eu não quero ser melhor. Quero ser medíocre e fazer coisas medíocres e ganhar um salário medíocre. O mínimo que tiver de fazer para sobreviver.
 - Olha, não está aqui ninguém. Toda a gente se foi embora. Ficaste sozinha a falar sozinha.
+- Estás com o disco riscado.
