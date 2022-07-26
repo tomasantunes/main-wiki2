@@ -11,3 +11,5 @@
 - A minha mãe está cansada
 - A minha mãe é drogada
 - A minha mãe está concentrada
+- A minha mãe está a ser roubada
+- A minha está interessada
