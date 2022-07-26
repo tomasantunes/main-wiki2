@@ -9,3 +9,4 @@
 - A minha mãe está sempre em casa
 - A minha mãe está sem casa
 - A minha mãe está cansada
+- A minha mãe é drogada
