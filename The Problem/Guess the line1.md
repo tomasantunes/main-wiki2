@@ -10,3 +10,4 @@
 - A minha mãe está sem casa
 - A minha mãe está cansada
 - A minha mãe é drogada
+- A minha mãe está concentrada
