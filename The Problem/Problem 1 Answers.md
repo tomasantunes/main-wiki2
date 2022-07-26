@@ -403,3 +403,6 @@
 - So what? I don't want to be better. I want to be average and do average stuff and get an average salary. The minimum I have to do to get by.
 - There's nobody here. Everyone is gone. You are alone talking to yourself.
 - You have a broken record.
+- Nobody cares about that shit. This is basic stuff we need to to get an app done.
+- This is all automatic. I don't need you for anything.
+- You're such a crybaby.
