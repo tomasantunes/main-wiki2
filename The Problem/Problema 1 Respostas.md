@@ -408,3 +408,4 @@
 - Isto é tudo automático. Não preciso de ti para nada.
 - És uma chorona.
 - Não passas de uma pedinte. Se a qualidade não te chega faz por merecê-la.
+- Estás a receber e queixas-te?
