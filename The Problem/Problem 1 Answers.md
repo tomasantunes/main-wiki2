@@ -408,4 +408,4 @@
 - You're such a crybaby.
 - You're nothing but a beggar. If the quality is not enough, do more to earn it.
 - You're receiving and you complain?
-- This shit is money, you ungrateful bitch. WE spend all day drinking coktails and eating lobster and you have to cry at every step.
+- This shit is money, you ungrateful bitch. We spend all day drinking coktails and eating lobster and you have to cry at every step.
