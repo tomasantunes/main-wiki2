@@ -409,3 +409,6 @@
 - You're nothing but a beggar. If the quality is not enough, do more to earn it.
 - You're receiving and you complain?
 - This shit is money, you ungrateful bitch. We spend all day drinking coktails and eating lobster and you have to cry at every step.
+- That information doesn't help me. There's always more work. Would you rather be working for the future or complaining about the work of the past.
+- That's a constant in life. You can work every day of your life and that information will continue to be true.
+- This is good, this means there will always be someone who surprises you with something new to learn and you will never get bored.

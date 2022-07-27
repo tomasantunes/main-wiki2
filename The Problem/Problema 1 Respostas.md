@@ -410,3 +410,6 @@
 - Não passas de uma pedinte. Se a qualidade não te chega faz por merecê-la.
 - Estás a receber e queixas-te?
 - Esta merda é dinheiro, sua ingrata. Isto é entornar cocktails o dia todo e comer lagosta e tu choras-te toda.
+- Essa informação não ajuda. Há sempre mais trabalho. Preferes trabalhar para o futuro ou queixar-te do trabalho do passado.
+- Isso é uma constante da vida. Podes trabalhar todos os dias para o resto da tua vida e essa informação vai continuar a ser verdadeira.
+- Isso é bom. Isso significa que vai sempre haver alguém que te surpreende e te ensina alguma coisa e não ficas aborrecido.
