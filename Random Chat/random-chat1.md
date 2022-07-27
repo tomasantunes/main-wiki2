@@ -66,3 +66,9 @@ Break...
 <JuniorDev> OK I have a node.js app running in pre-prod.
 Break...
 <Manager> Your wiki app needs to be a Chrome extension. That would eliminate some overhead.
+Break...
+<Manager> Right, so we can't do sexy jobs, we can only do boring jobs that nobody wants to do because you're stealing the spotlight.
+<Manager> And people are complaining that this guy gets paid to do basic stuff but then they don't even do that properly.
+<Manager> Especially when there are problems on the system above you, people are surprised that basic stuff doesn't get done.
+<Manager> And we're getting tons of views and earning pennies. Any piece of shit makes people completely hysterical, so it's free money for the taking.
+<Manager> And yeah... you need to embrace political life. Formalities, socializing, special occasions, celebrations, inaugurations. Milking the american dream.
