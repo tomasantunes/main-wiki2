@@ -1,0 +1,2 @@
+- Make certbot redirect on server2
+- Confirm info on coinbase

@@ -48,6 +48,7 @@
 - New solution to Leonhard Euler's famous “36 officers puzzle” (https://www.quantamagazine.org/eulers-243-year-old-impossible-puzzle-gets-a-quantum-solution-20220110/)
 - Mathematician answers 150-year-old chess problem (https://news.harvard.edu/gazette/story/2022/01/harvard-mathematician-answers-150-year-old-chess-problem/)
 - Mathematicians have figured out the most efficient way to square a circle (or circle a square) (https://www.quantamagazine.org/an-ancient-geometry-problem-falls-to-new-mathematical-techniques-20220208/)
+- A Question About a Rotating Line Helps Reveal What Makes Real Numbers Special (https://www.quantamagazine.org/new-number-systems-point-geometry-problem-toward-a-real-solution-20220726/)
 
 ## Physics Award
 - China's $1 trillion 'artificial sun' fusion reactor just got five times hotter than the sun (https://www.msn.com/en-us/news/world/chinas-241-trillion-artificial-sun-fusion-reactor-just-got-five-times-hotter-than-the-sun/ar-AASFjAr?ocid=BingNewsSearch)
@@ -138,6 +139,9 @@
 
 ## Arquitecture Award
 - N/A
+
+## Biology Award
+- Scientists find 30 potential new species at bottom of ocean (https://www.theguardian.com/environment/2022/jul/26/scientists-find-30-potential-new-species-at-bottom-of-ocean-using-robots)
 
 ## Linguistics Award
 - N/A
