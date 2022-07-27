@@ -72,3 +72,4 @@ Break...
 <Manager> Especially when there are problems on the system above you, people are surprised that basic stuff doesn't get done.
 <Manager> And we're getting tons of views and earning pennies. Any piece of shit makes people completely hysterical, so it's free money for the taking.
 <Manager> And yeah... you need to embrace political life. Formalities, socializing, special occasions, celebrations, inaugurations. Milking the american dream.
+<Manager> And people don't want those sexy jobs because they don't have time for it and they have more urgent matters.
