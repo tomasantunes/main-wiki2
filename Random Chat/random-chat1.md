@@ -90,3 +90,6 @@ Break...
 <JuniorDev> I mean, you're obsessed with the quality of other people's work. But why do you even bother? You need to be responsible for your own life and stop being dependent on others to make you happy.
 <Princess> It's about the work.
 <JuniorDev> Come on, we don't work like you. This is not a slave camp. We're going to do one thing at a time and we're not going to shit on people's faces just because of some irrelevant work problem. We're going to work and have fun at the same time and we don't need bossy people, we don't need to shout at people all day as if they were slaves.
+Break...
+<Student3> The problem is taxes.
+<JuniorDev> I don't have to pay taxes. I just have to file the taxes related to my job every year.
