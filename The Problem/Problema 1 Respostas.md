@@ -414,3 +414,4 @@
 - Isso é uma constante da vida. Podes trabalhar todos os dias para o resto da tua vida e essa informação vai continuar a ser verdadeira.
 - Isso é bom. Isso significa que vai sempre haver alguém que te surpreende e te ensina alguma coisa e não ficas aborrecido.
 - OK. Mas não posso chupar toda a gente ao mesmo tempo, tenho que chupar um de cada vez.
+- Não é não. Tu não és capaz de aceitar um não.

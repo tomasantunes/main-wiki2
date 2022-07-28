@@ -412,3 +412,4 @@
 - That information doesn't help me. There's always more work. Would you rather be working for the future or complaining about the work of the past.
 - That's a constant in life. You can work every day of your life and that information will continue to be true.
 - This is good, this means there will always be someone who surprises you with something new to learn and you will never get bored.
+- No is no. You're just not capable of accepting a no.
