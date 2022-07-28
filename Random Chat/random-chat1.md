@@ -132,3 +132,7 @@ Break...
 <Student> Exactly. Your approval, your opinion, your input, your feedback. That's what people want to be recognized for.
 <Student2> Pois, quer fazer tudo sozinho. Diz que tá tudo no google e não precisa de nós. Ele é que escolhe tudo.
 <Student> Yeah, you need the public's help and a second opinion. Or a phone call or 50/50.
+<JuniorDev> Isto não se faz a ninguém.
+<Student> You're unsatisfied. I know.
+<Student> There's nothing I can do.
+<JuniorDev> You have so much to give and you give so little.
