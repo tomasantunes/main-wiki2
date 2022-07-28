@@ -101,3 +101,4 @@ Break...
 <JuniorDev> Do I have to pay taxes to use a computer? Do I have to pay taxes to catch the subway? Do I have to pay taxes to post things on social media?
 <Expert> No, of course not. The only taxes you pay are VAT on the products you buy.
 <Student3> Then what are we doing here?
+<Expert> There is not a single invoice here so you don't have to pay taxes.
