@@ -23,3 +23,4 @@
 - How much of your free time did you lose and what's the value of what you could have consumed during that time?
 - How much did you have to pay in transportation and accomodation to solve this problem?
 - Did you have to spend money buying special equipment to solve this problem? How much?
+- Did you have to compensate other people because of your behaviour as a result of this problem?
