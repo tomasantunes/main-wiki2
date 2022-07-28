@@ -113,3 +113,5 @@ Break...
 <JuniorDev> I'm just going to keep working for free. And if you don't like, you can suck it.
 <Student3> Then what are we doing here?
 <JuniorDev> Nothing, you just watch and give feedback or participate if you want.
+<Student> Pay me.
+<JuniorDev> It's unchargeable. You can't charge and I can't pay.
