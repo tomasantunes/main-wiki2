@@ -131,3 +131,4 @@ Break...
 <JuniorDev> Maybe I'm not that important.
 <Student> Exactly. Your approval, your opinion, your input, your feedback. That's what people want to be recognized for.
 <Student2> Pois, quer fazer tudo sozinho. Diz que tá tudo no google e não precisa de nós. Ele é que escolhe tudo.
+<Student> Yeah, you need the public's help and a second opinion. Or a phone or 50/50.
