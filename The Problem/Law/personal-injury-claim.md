@@ -30,3 +30,4 @@
 - Did you act according to your training?
 - Did you do anything contrary to common sense?
 - Were you drunk or intoxicated when this happened? Were you taking medication?
+- Do you have any disablity or condition like reduced mobility or obesity that makes you more prone to this problem?
