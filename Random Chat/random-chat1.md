@@ -146,3 +146,8 @@ Break...
 <Student> Yeah, these people are delusional. They are in denial. They are like sheep in the matrix. And we are protesting against them.
 <Student> They come from bad backgrounds. They are used to treating each other like shit. They think this is a slave camp.
 <Student> If we fight hard enough, we might be able to wake them up.
+<Princess> Get out of my head.
+<JuniorDev> Knowing your thoughts is not enough. You are protected by walls, weapons and cryptography.
+<JuniorDev> Only time will tell. I don't know why I ended up here but I see that this could take years or decades.
+<JuniorDev> If we ever win. We need to be ready to accept that the world is beyond repair.
+<JuniorDev> It's not so bad. Could be worse.
