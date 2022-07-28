@@ -111,3 +111,5 @@ Break...
 <JuniorDev> Forget it. They don't care.
 <JuniorDev> I'm not going to open activity, so the case is closed.
 <JuniorDev> I'm just going to keep working for free. And if you don't like, you can suck it.
+<Student3> Then what are we doing here?
+<JuniorDev> Nothing, you just watch and give feedback or participate if you want.
