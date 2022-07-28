@@ -415,3 +415,4 @@
 - Isso é bom. Isso significa que vai sempre haver alguém que te surpreende e te ensina alguma coisa e não ficas aborrecido.
 - OK. Mas não posso chupar toda a gente ao mesmo tempo, tenho que chupar um de cada vez.
 - Não é não. Tu não és capaz de aceitar um não.
+- Estamos aqui a fazer um esforço para juntar uns trocos para fumar ganza juntos e tu só passas rena.
