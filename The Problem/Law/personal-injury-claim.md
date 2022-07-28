@@ -12,3 +12,4 @@
 - A prospective claimant is expected to comply with a ‘Pre-Action Protocol’, which requires steps to be taken to try to resolve the issue without formal legal proceedings.
 - Unless you have legal insurance or particularly deep pockets, you are unlikely to be legally represented.
 - The court at trial will hear evidence, including expert medical evidence, to determine whatever issues are in dispute, and make findings on liability and causation.
+- You may have contributory negligence if the claimant has been careless in some way.
