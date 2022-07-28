@@ -21,3 +21,5 @@
 - How much did you have to pay in replacing equipment?
 - How much did you lose by having to take time off from work?
 - How much of your free time did you lose and what's the value of what you could have consumed during that time?
+- How much did you have to pay in transportation and accomodation to solve this problem?
+- Did you have to spend money buying special equipment to solve this problem? How much?
