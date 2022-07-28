@@ -96,4 +96,6 @@ Break...
 <Expert> I'm not available.
 <JuniorDev> But I'm getting complaints. You don't have time to help me but you have time to complain?
 <Expert> But have you cleared this up?
-<Junior> You are not available, so we'll have to postpone this case until further notice.
+<JuniorDev> You are not available, so we'll have to postpone this case until further notice.
+Break...
+<JuniorDev> Do I have to pay taxes to use a computer? Do I have to pay taxes to catch the subway? Do I have to pay taxes to post things on social media?
