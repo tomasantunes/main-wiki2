@@ -130,3 +130,4 @@ Break...
 <JuniorDev> I'm not demanding enough. I don't exactly complain much.
 <JuniorDev> Maybe I'm not that important.
 <Student> Exactly. Your approval, your opinion, your input, your feedback. That's what people want to be recognized for.
+<Student2> Pois, quer fazer tudo sozinho. Diz que tá tudo no google e não precisa de nós. Ele é que escolhe tudo.
