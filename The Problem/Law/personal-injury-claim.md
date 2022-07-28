@@ -20,3 +20,4 @@
 - How much did you have to pay at the hospital?
 - How much did you have to pay in replacing equipment?
 - How much did you lose by having to take time off from work?
+- How much of your free time did you lose and what's the value of what you could have consumed during that time?
