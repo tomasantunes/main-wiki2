@@ -102,3 +102,9 @@ Break...
 <Expert> No, of course not. The only taxes you pay are VAT on the products you buy.
 <Student3> Then what are we doing here?
 <Expert> There is not a single invoice here so you don't have to pay taxes.
+Break...
+<JuniorDev> It's free. It's volunteer work.
+<Student3> But you want to make money?
+<JuniorDev> The sale is unchargeable.
+<JuniorDev> If 100 people say they are willing to pay, I start a company.
+<JuniorDev> But that's not going to happen.
