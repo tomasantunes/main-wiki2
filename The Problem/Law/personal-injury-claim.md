@@ -25,3 +25,4 @@
 - Did you have to spend money buying special equipment to solve this problem? How much?
 - Did you have to compensate other people because of your behaviour as a result of this problem?
 - Did you become dependent on others to do basic activities because of this problem?
+- What is the damage you have that money can't cover?
