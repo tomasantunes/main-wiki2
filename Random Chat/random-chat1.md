@@ -115,3 +115,5 @@ Break...
 <JuniorDev> Nothing, you just watch and give feedback or participate if you want.
 <Student> Pay me.
 <JuniorDev> It's unchargeable. You can't charge and I can't pay.
+<Student> Then why are you asking me?
+<JuniorDev> It's not a request. It's a suggestion, you don't have to be here.
