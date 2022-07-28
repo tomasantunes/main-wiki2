@@ -95,3 +95,5 @@ Break...
 <JuniorDev> I don't have to pay taxes. I just have to file the taxes related to my job every year.
 <Expert> I'm not available.
 <JuniorDev> But I'm getting complaints. You don't have time to help me but you have time to complain?
+<Expert> But have you cleared this up?
+<Junior> You are not available, so we'll have to postpone this case until further notice.
