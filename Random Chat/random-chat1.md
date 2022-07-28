@@ -117,3 +117,5 @@ Break...
 <JuniorDev> It's unchargeable. You can't charge and I can't pay.
 <Student> Then why are you asking me?
 <JuniorDev> It's not a request. It's a suggestion, you don't have to be here.
+<Student> I suggest that you pay.
+<JuniorDev> I don't have to, because there are billions of people doing it for free.
