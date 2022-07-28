@@ -150,3 +150,6 @@
 ## Education Award
 - Reading Coach (https://techcommunity.microsoft.com/t5/education-blog/introducing-reading-coach-for-personalized-practice-and-other/ba-p/3223533)
 - PianoTrainer (https://github.com/ZaneH/piano-trainer)
+
+## Special Mentions
+- James Howell's quest to find a missing hard drive (https://www.businessinsider.com/james-howells-threw-away-bitcoin-dump-masterplan-get-back-2022-7)
