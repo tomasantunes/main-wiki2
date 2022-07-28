@@ -136,3 +136,6 @@ Break...
 <Student> You're unsatisfied. I know.
 <Student> There's nothing I can do.
 <JuniorDev> You have so much to give and you give so little.
+<Student> Alright, he wants plenty of money and food and drinks and coffee and cigarrettes and technology products.
+<Student2> Understandable. Don't get too fat.
+<JuniorDev> Sure, that's nice. But what I want is for you to tell me about yourself and how you're feeling and what you would like.
