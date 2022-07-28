@@ -414,3 +414,4 @@
 - This is good, this means there will always be someone who surprises you with something new to learn and you will never get bored.
 - No is no. You're just not capable of accepting a no.
 - We're making an effort to get some coins together to smoke weed togehter and all the joints you pass are shit.
+- You're so selfish, you don't share anything. The more I give you the worse you treat me.

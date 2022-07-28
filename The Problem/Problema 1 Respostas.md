@@ -416,3 +416,4 @@
 - OK. Mas não posso chupar toda a gente ao mesmo tempo, tenho que chupar um de cada vez.
 - Não é não. Tu não és capaz de aceitar um não.
 - Estamos aqui a fazer um esforço para juntar uns trocos para fumar ganza juntos e tu só passas rena.
+- Egoísta, não partilhas nada. Eu não te fiz mal nenhum. Quanto mais te dou pior me tratas.
