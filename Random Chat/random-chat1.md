@@ -139,3 +139,10 @@ Break...
 <Student> Alright, he wants plenty of money and food and drinks and coffee and cigarrettes and technology products.
 <Student2> Understandable. Don't get too fat.
 <JuniorDev> Sure, that's nice. But what I want is for you to tell me about yourself and how you're feeling and what you would like.
+Break...
+<JuniorDev> So yeah, the new trend is protestware.
+<JuniorDev> That's why things are the way they are. We refuse to participate because we are in protest.
+<JuniorDev> It's kind of like a hunger strike.
+<Student> Yeah, these people are delusional. They are in denial. They are like sheep in the matrix. And we are protesting against them.
+<Student> They come from bad backgrounds. They are used to treating each other like shit. They think this is a slave camp.
+<Student> If we fight hard enough, we might be able to wake them up.
