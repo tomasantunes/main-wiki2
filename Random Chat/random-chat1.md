@@ -108,3 +108,6 @@ Break...
 <JuniorDev> The sale is unchargeable.
 <JuniorDev> If 100 people say they are willing to pay, I start a company.
 <JuniorDev> But that's not going to happen.
+<JuniorDev> Forget it. They don't care.
+<JuniorDev> I'm not going to open activity, so the case is closed.
+<JuniorDev> I'm just going to keep working for free. And if you don't like, you can suck it.
