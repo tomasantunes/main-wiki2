@@ -43,6 +43,7 @@
 - CodeWhisperer (https://techcrunch.com/2022/06/23/amazon-launches-codewhisperer-its-ai-pair-programming-tool/)
 - Google's Democratic AI is better at redistributing wealth (https://www.nature.com/articles/s41562-022-01383-x?utm_medium=affiliate&utm_source=commission_junction&utm_campaign=CONR_PF018_ECOM_GL_PHSS_ALWYS_PRODUCT&utm_content=textlink&utm_term=PID100094349&CJEVENT=22c132e9fe4411ec83ab063f0a180511)
 - AutoRegex (https://www.autoregex.xyz/)
+- Artificial Intelligence Discovers Alternative Physics (https://scitechdaily.com/artificial-intelligence-discovers-alternative-physics/)
 
 ## Mathematics Award
 - New solution to Leonhard Euler's famous “36 officers puzzle” (https://www.quantamagazine.org/eulers-243-year-old-impossible-puzzle-gets-a-quantum-solution-20220110/)
