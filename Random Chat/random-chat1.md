@@ -119,3 +119,5 @@ Break...
 <JuniorDev> It's not a request. It's a suggestion, you don't have to be here.
 <Student> I suggest that you pay.
 <JuniorDev> I don't have to, because there are billions of people doing it for free.
+<Princess> I'm unsatisfied.
+<JuniorDev> I don't give a fuck about you, your highness. I'm not going to pay so you can suck it.
