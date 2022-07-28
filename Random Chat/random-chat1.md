@@ -121,3 +121,5 @@ Break...
 <JuniorDev> I don't have to, because there are billions of people doing it for free.
 <Princess> I'm unsatisfied.
 <JuniorDev> I don't give a fuck about you, your highness. I'm not going to pay so you can suck it.
+<Princess> I'm in love with you.
+<JuniorDev> Not gonna happen. I'm a lone wolf and I have an illness so that's the end of it.
