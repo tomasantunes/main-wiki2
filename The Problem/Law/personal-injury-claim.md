@@ -14,6 +14,8 @@
 - The court at trial will hear evidence, including expert medical evidence, to determine whatever issues are in dispute, and make findings on liability and causation.
 - You may have contributory negligence if the claimant has been careless in some way. This will reduce the compensation.
 - The principle behind damages is to restore the claimant to the position that they would have been in had they not been harmed by these actions.
+- Where there's blame, there's a claim.
+- Organisations have adopted disproportionately risk-averse practices in response.
 
 ## Questions
 - How much did you lose?
