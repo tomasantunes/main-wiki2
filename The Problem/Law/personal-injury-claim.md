@@ -20,6 +20,7 @@
 - Legal costs can’t be recovered in small claims, so many people are forced to represent themselves.
 - Three quarters of medical experts working in personal injury would not accept instructions from an unrepresented litigant.
 - In small claims, most claimants prefer to forget the compensation to which they are entitled rather than proceeding unrepresented.
+- Compensation has been reimagined as the enemy of the people because the media tells us that people are abusing it but it should be something that you deserve by moral rights.
 
 ## Questions
 - How much did you lose?
