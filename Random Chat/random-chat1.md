@@ -171,3 +171,6 @@ Break...
 <SeniorDev> It's more than that. It's your identity, your digital footprint, your communication with the public, evidence that puts people in jail, proof of contribution, distribution of wealth, taxes that fund all our services.
 <Student2> Bottlenecks that get solved.
 <Student3> The meat and bones of all our logistics that put food on your table, clothes on your back and furniture in your house.
+<Boss> Não. É uma linguagem que descreve o universo. É um toggle que diz se estás bem ou mal. É um número que compara duas hipóteses. Uma data para o fim do sofrimento. Um relógio que diz quando o mundo vai acabar. Um botão que pode destruir um país.
+<Student> Mas uma imagem vale mil palavras.
+<SeniorDev> Claro. Mas essa imagem vai ser classificada e descrita com esta linguagem.
