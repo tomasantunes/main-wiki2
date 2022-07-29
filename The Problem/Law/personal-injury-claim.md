@@ -16,6 +16,7 @@
 - The principle behind damages is to restore the claimant to the position that they would have been in had they not been harmed by these actions.
 - Where there's blame, there's a claim.
 - Organisations have adopted disproportionately risk-averse practices in response.
+- A court is now required to dismiss the whole of a personal-injury claim if it is satisfied that a claimant has been ‘fundamentally dishonest’ in relation to the claim
 
 ## Questions
 - How much did you lose?
