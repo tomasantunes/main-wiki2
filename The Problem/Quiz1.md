@@ -1,0 +1,23 @@
+# Quiz1
+
+- Do you like telling people they are useless?
+- Do you feel better after telling people they are useless?
+- Do you get better treatment after telling people they are useless?
+- Do you feel unsatisfied about my work?
+- If I can't answer your needs, do you have somewhere else you can go?
+- How much time do you think it would take for my work to be approved by you?
+- Do you think that I will never be good enough for you?
+- Do you still have hope that my work will be good enough?
+- Was it better in the past?
+- Would you like to be more included in the decision process of my work?
+- Is this some sort of revenge because you envy me or because you also get criticized?
+- Does telling me I am useless give you sexual pleasure?
+- Would you like to confront me directly and tell me that to my face?
+- Do you have urgent matters that require my attention and I'm not answering your needs fast enough?
+- Would you prefer it if I didn't do anything?
+- Have you tried doing it yourself?
+- Do you have to wait a long time because of me?
+- Do you have expenses because of my lack of attention?
+- Would you like me to be more productive and do more in less time?
+- Are you unable to have a normal life because of my work?
+- Do you like the feedback you get after you tell me that I am useless?
