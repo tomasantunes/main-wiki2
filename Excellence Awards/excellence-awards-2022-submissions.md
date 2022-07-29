@@ -98,6 +98,9 @@
 - Build your own quantum computer with Google's latest 'simulator' (https://www.engadget.com/build-your-own-quantum-computer-with-googles-latest-simulator-124513737.html)
 - Schluss - Take back control of your data (https://schluss.org/roadmap/)
 
+## Data Science Award
+- Notable people by location (https://tjukanovt.github.io/notable-people)
+
 ## Digital Art Award
 - N/A
 
