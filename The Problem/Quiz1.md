@@ -22,3 +22,4 @@
 - Are you unable to have a normal life because of my work?
 - Do you like the feedback you get after you tell me that I am useless?
 - Is there a particular job you are waiting for that nevers gets done?
+- If I can't perform what you are hoping for what do I need to do?
