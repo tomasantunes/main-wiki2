@@ -19,6 +19,7 @@
 - A court is now required to dismiss the whole of a personal-injury claim if it is satisfied that a claimant has been ‘fundamentally dishonest’ in relation to the claim
 - Legal costs can’t be recovered in small claims, so many people are forced to represent themselves.
 - Three quarters of medical experts working in personal injury would not accept instructions from an unrepresented litigant.
+- In small claims, most claimants prefer to forget the compensation to which they are entitled rather than proceeding unrepresented.
 
 ## Questions
 - How much did you lose?
