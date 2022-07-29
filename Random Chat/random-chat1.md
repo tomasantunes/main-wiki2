@@ -168,3 +168,6 @@ Break...
 <Student3> You can try to use open-source invoicing software that works in Portugal.
 <LeadDev> Só tem lixinho. Rotinas, interfaces, tabelas, automações, base de dados, relatórios, e-mail, SMS, notificações, datas, horas, contas, visualizações, pagamentos, impressões.
 <Student> That's how surveillance works. Everything you do ends up on a receipt for some guy with a tie and a Parker pen.
+<SeniorDev> It's more than that. It's your identity, your digital footprint, your communication with the public, evidence that puts people in jail, proof of contribution, distribution of wealth, taxes that fund all our services.
+<Student2> Bottlenecks that get solved.
+<Student3> The meat and bones of all our logistics that put food on your table, clothes on your back and furniture in your house.
