@@ -167,3 +167,4 @@ Break...
 <Student2> And you can't make your own invoicing software because it has to be certified by the Tax Authority and you can't do that because you don't have a company.
 <Student3> You can try to use open-source invoicing software that works in Portugal.
 <LeadDev> Só tem lixinho. Rotinas, interfaces, tabelas, automações, base de dados, relatórios, e-mail, SMS, notificações, datas, horas, contas, visualizações, pagamentos, impressões.
+<Student> That's how surveillance works. Everything you do ends up on a receipt for some guy with a tie and a Parker pen.
