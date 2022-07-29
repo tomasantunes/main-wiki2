@@ -160,3 +160,9 @@ Break...
 Break...
 <JuniorDev> It's a trickle-down economy, the biggest developers make more money and support the smaller developers.
 <Student> If you're so important you can just put your screen on a projector and we'll sit in a circle watching you.
+Break...
+<WebDev> You need to find another way to be special.
+<JuniorDev> A step forward would be to hack the invoicing software we are selling.
+<Student> Right, that's dangerous. You could get flagged or even blocked.
+<Student2> And you can't make your own invoicing software because it has to be certified by the Tax Authority and you can't do that because you don't have a company.
+<Student3> You can try to use open-source invoicing software that works in Portugal.
