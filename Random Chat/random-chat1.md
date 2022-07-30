@@ -200,3 +200,6 @@ Break...
 <JuniorDev> At what? If everyone is doing better, this means both opposites are true. Everyone is having sex and everyone is working.~
 <Princess> You're incompetent.
 <JuniorDev> But everything that could potentially be done would conflict with the current time and space. And every action has a reaction. For example, I can't defend a criminal and prosecute him at the same time.
+<Princess> You're incompetent.
+<Student> Querias.
+<JuniorDev> There's nothing to want. Just endless possibilities.
