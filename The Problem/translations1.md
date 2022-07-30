@@ -22,6 +22,9 @@
 - It's an approximation by scale.
 - You're in denial.
 - Ficas a dormir e a mamar leitinho.
+- Eu sou um nabo e faço melhor que tu.
+- Que macho que ele é. Não tem coragem para nada.
+- É uma opinião. Só andas aqui a empatar.
 
 ## Answers
 - Esta merda não se faz a ninguém.
