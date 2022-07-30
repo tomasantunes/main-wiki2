@@ -184,3 +184,5 @@ Break...
 <JuniorDev> I have the upper hand. If I decide the topic, all this becomes irrelevant because I am completely in control of your opinion.
 <Princess> You're incompetent.
 <JuniorDev> Right, but there's nothing in the table. If I say work, you say work. If I say sex you say sex.
+<Princess> You're incompetent.
+<JuniorDev> You don't have an opinion. You eat whatever I tell you.
