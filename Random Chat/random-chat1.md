@@ -203,3 +203,5 @@ Break...
 <Princess> You're incompetent.
 <Student> Querias.
 <JuniorDev> There's nothing to want. Just endless possibilities.
+<Princess> You're incompetent.
+<JuniorDev> There is no information on that sentence. That represents 99% of the work being done right now.
