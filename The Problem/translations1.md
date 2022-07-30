@@ -26,6 +26,7 @@
 - Que macho que ele é. Não tem coragem para nada.
 - É uma opinião. Só andas aqui a empatar.
 - Isso é um monte de tretas para justificar a tua preguiça e estilo de vida lastimoso.
+- What you need is Dr. Phil.
 
 ## Answers
 - Esta merda não se faz a ninguém.
