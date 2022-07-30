@@ -239,3 +239,5 @@ Break...
 <JuniorDev> No? So do you want to have gay sex instead?
 <Princess> You're incompetent.
 <JuniorDev> At what?
+<Princess> You're incompetent.
+<JuniorDev> At what?
