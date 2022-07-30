@@ -220,3 +220,8 @@ Break...
 <Princess> You're incompetent.
 <Student> Querias.
 <JuniorDev> So who is incompetent?
+<Student> You.
+<JuniorDev> Why?
+<Student> Because I said so.
+<Student> Querias.
+<JuniorDev> But I can refute that. I can say that I'm not.
