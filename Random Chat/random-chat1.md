@@ -186,3 +186,5 @@ Break...
 <JuniorDev> Right, but there's nothing in the table. If I say work, you say work. If I say sex you say sex.
 <Princess> You're incompetent.
 <JuniorDev> You don't have an opinion. You eat whatever I tell you.
+<Princess> You're incompetent.
+<JuniorDev> You don't have consciousness. This is almost like talking to a dummy.
