@@ -21,6 +21,7 @@
 - The sooner you do it, the better.
 - It's an approximation by scale.
 - You're in denial.
+- Ficas a dormir e a mamar leitinho.
 
 ## Answers
 - Esta merda não se faz a ninguém.
