@@ -197,4 +197,6 @@ Break...
 <JuniorDev> Right, but there is no action that I can take to make you stop. It's not an objective reality. There are multiple things I could do and none of them make you stop.
 <JuniorDev> There is no specification. You're just waiting for me to tell you things that could be done so you can hit me again.
 <Princess> You're incompetent.
-<JuniorDev> At what? If everyone is doing better, this means both opposites are true. Everyone is having sex and everyone is working.
+<JuniorDev> At what? If everyone is doing better, this means both opposites are true. Everyone is having sex and everyone is working.~
+<Princess> You're incompetent.
+<JuniorDev> But everything that could potentially be done would conflict with the current time and space. And every action has a reaction. For example, I can't defend a criminal and prosecute him at the same time.
