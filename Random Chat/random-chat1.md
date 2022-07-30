@@ -215,3 +215,5 @@ Break...
 <JuniorDev> But am I wrong?
 <Student> Querias.
 <JuniorDev> Yes or no?
+<Student> Yes.
+<JuniorDev> Based on what?
