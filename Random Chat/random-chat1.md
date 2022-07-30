@@ -227,3 +227,5 @@ Break...
 <JuniorDev> But I can refute that. I can say that I'm not.
 <Princess> You're incompetent.
 <JuniorDev> At what?
+<Princess> At writing.
+<JuniorDev> I'm not a writer.
