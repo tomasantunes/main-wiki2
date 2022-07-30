@@ -209,3 +209,5 @@ Break...
 <JuniorDev> You think I'm wrong? Based on what? Everyone disagrees about everything. It's not unanimous. Some people like it and others don't.
 <Princess> You're incompetent.
 <JuniorDev> But am I wrong?
+<Student> Yes.
+<JuniorDev> Based on what?
