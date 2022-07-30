@@ -196,3 +196,5 @@ Break...
 <Princess> You're incompetent.
 <JuniorDev> Right, but there is no action that I can take to make you stop. It's not an objective reality. There are multiple things I could do and none of them make you stop.
 <JuniorDev> There is no specification. You're just waiting for me to tell you things that could be done so you can hit me again.
+<Princess> You're incompetent.
+<JuniorDev> At what? If everyone is doing better, this means both opposites are true. Everyone is having sex and everyone is working.
