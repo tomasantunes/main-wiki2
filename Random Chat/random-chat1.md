@@ -188,3 +188,5 @@ Break...
 <JuniorDev> You don't have an opinion. You eat whatever I tell you.
 <Princess> You're incompetent.
 <JuniorDev> You don't have consciousness. This is almost like talking to a dummy.
+<Student> Victory.
+<JuniorDev> Right. Based on what. This game has no logic, you just press random buttons and a popup shows up saying Victory.
