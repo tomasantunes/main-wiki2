@@ -246,3 +246,6 @@ Break...
 <JuniorDev> Me neither.
 <Princess> Yes you do.
 <JuniorDev> If you give me your number I can send you money by MBWAY.
+<Princess> You're incompetent.
+<Student> Querias.
+<JuniorDev> No, you're incompetent. I gave you instructions for how to get money and you didn't follow.
