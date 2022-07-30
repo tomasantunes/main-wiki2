@@ -193,3 +193,6 @@ Break...
 <LeadDev> It's a thought.
 <LeadDev> I have many and you don't.
 <JuniorDev> Yes, I'm out of thoughts. This means I'm reaching I'm hitting a break point. And I will stop obsessing for a while.
+<Princess> You're incompetent.
+<JuniorDev> Right, but there is no action that I can take to make you stop. It's not an objective reality. There are multiple things I could do and none of them make you stop.
+<JuniorDev> There is no specification. You're just waiting for me to tell you things that could be done so you can hit me again.
