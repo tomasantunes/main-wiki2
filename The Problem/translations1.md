@@ -27,6 +27,7 @@
 - É uma opinião. Só andas aqui a empatar.
 - Isso é um monte de tretas para justificar a tua preguiça e estilo de vida lastimoso.
 - What you need is Dr. Phil.
+- Ficaste numa situação complicada. As expetativas são altas e tu não fazes nada. Agora vais ter que levar com isto até a venda ser feita.
 
 ## Answers
 - Esta merda não se faz a ninguém.
