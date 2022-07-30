@@ -1,0 +1,33 @@
+## Complaints
+- You shouldn't even be doing this.
+- The system you use to do this could be better.
+- There's a faster way of doing this.
+- You can just buy that.
+- Taxes will not be paid for this.
+- You want to achieve something, you know what you need to do but you refuse to do it. And then you see that it's not so simple and you don't even know what you're getting into.
+- You have failed to justify your failure.
+- You don't even know what could possible be done.
+- You have an illness, you are tainted with satan.
+- You have fake happiness.
+- Society doesn't allow you to do what you want.
+- You don't really care that much about what you're trying to do.
+- You will never know unless you try.
+- You are not in the mood.
+- At anytime you could just walk out the door and work towards achieving that.
+- You lie to yourself and say you don't really want anything.
+- You're going to choose not to do it and then you're going to complain and threaten me with violence because you didn't do it.
+- We are not willing to leave a sale unfinished.
+- You can't just hack at it and pretend you're doing it, you need to do it for real.
+- The sooner you do it, the better.
+- It's an approximation by scale.
+- You're in denial.
+
+## Answers
+- Esta merda não se faz a ninguém.
+- Isto é uma humilhação.
+- Isto não é nada encorajador.
+- Estou à espera de oportunidades melhores.
+- Sou um mártir.
+- Prefiro comer lixo.
+- Isso é o que acontece quando um grupo de turistas vai a um resort ou uma festa, ou quando um grupo de soldados tenta sobreviver na Ucrânia.
+
