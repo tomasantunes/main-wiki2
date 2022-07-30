@@ -217,3 +217,6 @@ Break...
 <JuniorDev> Yes or no?
 <Student> Yes.
 <JuniorDev> Based on what?
+<Princess> You're incompetent.
+<Student> Querias.
+<JuniorDev> So who is incompetent?
