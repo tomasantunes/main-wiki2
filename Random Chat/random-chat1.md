@@ -225,3 +225,5 @@ Break...
 <Student> Because I said so.
 <Student> Querias.
 <JuniorDev> But I can refute that. I can say that I'm not.
+<Princess> You're incompetent.
+<JuniorDev> At what?
