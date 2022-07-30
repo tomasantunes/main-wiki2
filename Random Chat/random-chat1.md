@@ -241,3 +241,6 @@ Break...
 <JuniorDev> At what?
 <Princess> You're incompetent.
 <JuniorDev> At what?
+<Princess> I don't have money.
+<Student> Querias.
+<JuniorDev> Me neither.
