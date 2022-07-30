@@ -233,3 +233,7 @@ Break...
 <JuniorDev> At what?
 <Princess> You're incompetent.
 <JuniorDev> At what?
+<Princess> At having sex.
+<JuniorDev> But I don't want to have sex, I want to be a writer.
+<Student> Querias.
+<JuniorDev> No? So do you want to have gay sex instead?
