@@ -229,3 +229,7 @@ Break...
 <JuniorDev> At what?
 <Princess> At writing.
 <JuniorDev> I'm not a writer.
+<Princess> You're incompetent.
+<JuniorDev> At what?
+<Princess> You're incompetent.
+<JuniorDev> At what?
