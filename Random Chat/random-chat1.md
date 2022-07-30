@@ -207,3 +207,5 @@ Break...
 <JuniorDev> There is no information on that sentence. That represents 99% of the work being done right now.
 <Student> Querias.
 <JuniorDev> You think I'm wrong? Based on what? Everyone disagrees about everything. It's not unanimous. Some people like it and others don't.
+<Princess> You're incompetent.
+<JuniorDev> But am I wrong?
