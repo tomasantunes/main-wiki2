@@ -29,6 +29,7 @@
 - What you need is Dr. Phil.
 - Ficaste numa situação complicada. As expetativas são altas e tu não fazes nada. Agora vais ter que levar com isto até a venda ser feita.
 - Fraco. Decidiste virar gay, agora tás fodido, ninguém te curte.
+- Pois é, tá nas notícias. Toda a gente. Where is your god now? 2020 revolution.
 
 ## Answers
 - Esta merda não se faz a ninguém.
