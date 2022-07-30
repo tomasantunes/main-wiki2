@@ -244,3 +244,5 @@ Break...
 <Princess> I don't have money.
 <Student> Querias.
 <JuniorDev> Me neither.
+<Princess> Yes you do.
+<JuniorDev> If you give me your number I can send you money by MBWAY.
