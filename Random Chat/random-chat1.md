@@ -182,3 +182,5 @@ Break...
 <JuniorDev> No matter what you tell me, the best decision is doing whatever I feel like doing during that time. You're always changing your mind. On the one hand.
 <JuniorDev> If I complain that I want to have sex you tell me to have sex. If I complain that I want to work you tell me to work.
 <JuniorDev> I have the upper hand. If I decide the topic, all this becomes irrelevant because I am completely in control of your opinion.
+<Princess> You're incompetent.
+<JuniorDev> Right, but there's nothing in the table. If I say work, you say work. If I say sex you say sex.
